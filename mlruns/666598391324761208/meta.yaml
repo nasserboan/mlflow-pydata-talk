@@ -1,0 +1,6 @@
+artifact_location: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/666598391324761208
+creation_time: 1689675905330
+experiment_id: '666598391324761208'
+last_update_time: 1689675905330
+lifecycle_stage: active
+name: churn-classification-nsb

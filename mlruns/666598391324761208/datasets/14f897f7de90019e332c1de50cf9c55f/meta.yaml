@@ -1,0 +1,9 @@
+digest: a9c741d5
+name: dataset
+profile: '{"features_shape": [88167, 15], "features_size": 1322505, "features_nbytes":
+  10580040}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 15]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "nsboan", "mlflow.source.name": "/home/nsboan/miniconda3/envs/mlflow-talk/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
