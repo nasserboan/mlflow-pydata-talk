@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/535fbf8171e048daaecd777122374332/artifacts
+end_time: 1689761661834
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: 535fbf8171e048daaecd777122374332
+run_name: bemused-kite-527
+run_uuid: 535fbf8171e048daaecd777122374332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689761660596
+status: 4
+tags: []
+user_id: nsboan

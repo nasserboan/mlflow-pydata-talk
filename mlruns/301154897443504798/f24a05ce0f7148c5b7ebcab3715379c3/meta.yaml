@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/f24a05ce0f7148c5b7ebcab3715379c3/artifacts
+end_time: 1689761023692
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: f24a05ce0f7148c5b7ebcab3715379c3
+run_name: wistful-snake-678
+run_uuid: f24a05ce0f7148c5b7ebcab3715379c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689761007773
+status: 3
+tags: []
+user_id: nsboan

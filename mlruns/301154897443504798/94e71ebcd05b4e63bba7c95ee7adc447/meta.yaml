@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/94e71ebcd05b4e63bba7c95ee7adc447/artifacts
+end_time: 1689760225046
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: 94e71ebcd05b4e63bba7c95ee7adc447
+run_name: resilient-moth-338
+run_uuid: 94e71ebcd05b4e63bba7c95ee7adc447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689760217793
+status: 3
+tags: []
+user_id: nsboan

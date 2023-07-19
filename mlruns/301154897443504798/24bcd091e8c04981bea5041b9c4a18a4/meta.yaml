@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/24bcd091e8c04981bea5041b9c4a18a4/artifacts
+end_time: 1689762543675
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: 24bcd091e8c04981bea5041b9c4a18a4
+run_name: resilient-duck-421
+run_uuid: 24bcd091e8c04981bea5041b9c4a18a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689762537646
+status: 3
+tags: []
+user_id: nsboan

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/666598391324761208/415e27baef50476d85d76d42d393f16a/artifacts
+deleted_time: 1689759551671
+end_time: 1689678209274
+entry_point_name: ''
+experiment_id: '666598391324761208'
+lifecycle_stage: deleted
+run_id: 415e27baef50476d85d76d42d393f16a
+run_name: big-cub-273
+run_uuid: 415e27baef50476d85d76d42d393f16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689678209038
+status: 4
+tags: []
+user_id: nsboan

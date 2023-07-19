@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/ade18ac879714ccea59b50890d5ee425/artifacts
+end_time: 1689761442939
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: ade18ac879714ccea59b50890d5ee425
+run_name: indecisive-frog-227
+run_uuid: ade18ac879714ccea59b50890d5ee425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689761441912
+status: 4
+tags: []
+user_id: nsboan

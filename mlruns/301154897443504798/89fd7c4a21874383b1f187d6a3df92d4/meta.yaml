@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/89fd7c4a21874383b1f187d6a3df92d4/artifacts
+end_time: 1689761951055
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: 89fd7c4a21874383b1f187d6a3df92d4
+run_name: crawling-moth-538
+run_uuid: 89fd7c4a21874383b1f187d6a3df92d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689761944637
+status: 3
+tags: []
+user_id: nsboan

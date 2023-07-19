@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/446141e31ab74a58b7a354400068e2a9/artifacts
+end_time: 1689762713586
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: 446141e31ab74a58b7a354400068e2a9
+run_name: upbeat-asp-809
+run_uuid: 446141e31ab74a58b7a354400068e2a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689762709002
+status: 3
+tags: []
+user_id: nsboan

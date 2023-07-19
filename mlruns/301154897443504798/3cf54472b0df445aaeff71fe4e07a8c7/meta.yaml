@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/3cf54472b0df445aaeff71fe4e07a8c7/artifacts
+end_time: 1689762343888
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: 3cf54472b0df445aaeff71fe4e07a8c7
+run_name: bedecked-panda-711
+run_uuid: 3cf54472b0df445aaeff71fe4e07a8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689762337037
+status: 3
+tags: []
+user_id: nsboan

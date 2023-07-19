@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/8b5dc0f46bb44059b0ea64039598ce31/artifacts
+end_time: 1689762469680
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: 8b5dc0f46bb44059b0ea64039598ce31
+run_name: blushing-turtle-771
+run_uuid: 8b5dc0f46bb44059b0ea64039598ce31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689762469454
+status: 4
+tags: []
+user_id: nsboan

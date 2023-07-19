@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/666598391324761208/f96cdeb34ad14112aab28b82f2371524/artifacts
+deleted_time: 1689759551671
+end_time: 1689758827988
+entry_point_name: ''
+experiment_id: '666598391324761208'
+lifecycle_stage: deleted
+run_id: f96cdeb34ad14112aab28b82f2371524
+run_name: traveling-cub-665
+run_uuid: f96cdeb34ad14112aab28b82f2371524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689758821377
+status: 3
+tags: []
+user_id: nsboan

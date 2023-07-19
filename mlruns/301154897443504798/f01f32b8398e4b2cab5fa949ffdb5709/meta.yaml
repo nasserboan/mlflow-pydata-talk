@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/f01f32b8398e4b2cab5fa949ffdb5709/artifacts
+end_time: 1689761682862
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: f01f32b8398e4b2cab5fa949ffdb5709
+run_name: efficient-toad-857
+run_uuid: f01f32b8398e4b2cab5fa949ffdb5709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689761681587
+status: 4
+tags: []
+user_id: nsboan

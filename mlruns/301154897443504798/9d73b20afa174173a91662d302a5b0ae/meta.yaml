@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/9d73b20afa174173a91662d302a5b0ae/artifacts
+end_time: 1689761428191
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: 9d73b20afa174173a91662d302a5b0ae
+run_name: painted-toad-532
+run_uuid: 9d73b20afa174173a91662d302a5b0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689761426997
+status: 4
+tags: []
+user_id: nsboan

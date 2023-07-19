@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/4331cc8c185f44aaa49dad2c489698a7/artifacts
+deleted_time: 1689760190429
+end_time: 1689759680889
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: deleted
+run_id: 4331cc8c185f44aaa49dad2c489698a7
+run_name: bald-panda-751
+run_uuid: 4331cc8c185f44aaa49dad2c489698a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689759674495
+status: 3
+tags: []
+user_id: nsboan

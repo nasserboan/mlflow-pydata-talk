@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/666598391324761208/8e2f17e212004c3683c13b382b1b8dad/artifacts
+deleted_time: 1689759551671
+end_time: 1689758581677
+entry_point_name: ''
+experiment_id: '666598391324761208'
+lifecycle_stage: deleted
+run_id: 8e2f17e212004c3683c13b382b1b8dad
+run_name: selective-trout-924
+run_uuid: 8e2f17e212004c3683c13b382b1b8dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689758575617
+status: 3
+tags: []
+user_id: nsboan

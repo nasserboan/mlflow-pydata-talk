@@ -1,0 +1,7 @@
+{
+  "accuracy_score_Xt": "accuracy_score(y_true=<Series>, y_pred=y_pred_test)",
+  "f1_score-2_Xt": "f1_score(y_true=<Series>, y_pred=y_pred_test)",
+  "f1_score_Xt": "f1_score(y_true=<Series>, y_pred=y_pred_test)",
+  "precision_score-2_Xt": "precision_score(y_true=<Series>, y_pred=y_pred_test, pos_label=0)",
+  "precision_score_Xt": "precision_score(y_true=<Series>, y_pred=y_pred_test)"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/ed412fbb75424e849ce2c162d86e93cc/artifacts
+end_time: 1689762869901
+entry_point_name: ''
+experiment_id: '301154897443504798'
+lifecycle_stage: active
+run_id: ed412fbb75424e849ce2c162d86e93cc
+run_name: zealous-quail-250
+run_uuid: ed412fbb75424e849ce2c162d86e93cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689762863822
+status: 3
+tags: []
+user_id: nsboan
