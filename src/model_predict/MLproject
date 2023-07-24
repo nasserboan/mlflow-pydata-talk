@@ -1,0 +1,7 @@
+name: model_predict
+conda_env: env.yml
+
+entry_points:
+  main:
+    command: >-
+        python model_predict.py
