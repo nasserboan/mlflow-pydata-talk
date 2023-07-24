@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bcc036f6e33349b3a5e0f170d70b2043/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcc036f6e33349b3a5e0f170d70b2043
+run_name: amazing-boar-390
+run_uuid: bcc036f6e33349b3a5e0f170d70b2043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690208590406
+status: 1
+tags: []
+user_id: nsboan

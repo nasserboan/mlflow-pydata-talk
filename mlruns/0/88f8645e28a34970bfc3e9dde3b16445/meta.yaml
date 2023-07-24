@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/88f8645e28a34970bfc3e9dde3b16445/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88f8645e28a34970bfc3e9dde3b16445
+run_name: peaceful-sloth-319
+run_uuid: 88f8645e28a34970bfc3e9dde3b16445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690185963445
+status: 1
+tags: []
+user_id: nsboan

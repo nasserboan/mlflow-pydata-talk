@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fc833252456c42af8392953d6c1e646c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc833252456c42af8392953d6c1e646c
+run_name: sassy-asp-672
+run_uuid: fc833252456c42af8392953d6c1e646c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690209659481
+status: 1
+tags: []
+user_id: nsboan

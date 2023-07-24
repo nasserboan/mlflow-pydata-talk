@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c4b5a68ed4ff437f96bc638b19ae16da/artifacts
+end_time: 1690210016725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4b5a68ed4ff437f96bc638b19ae16da
+run_name: big-chimp-31
+run_uuid: c4b5a68ed4ff437f96bc638b19ae16da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690209354995
+status: 4
+tags: []
+user_id: nsboan
