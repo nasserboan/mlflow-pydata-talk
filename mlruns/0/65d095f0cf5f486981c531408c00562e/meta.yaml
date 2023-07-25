@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/65d095f0cf5f486981c531408c00562e/artifacts
+deleted_time: 1690305429972
 end_time: 1690222583417
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 65d095f0cf5f486981c531408c00562e
 run_name: classy-hen-572
 run_uuid: 65d095f0cf5f486981c531408c00562e

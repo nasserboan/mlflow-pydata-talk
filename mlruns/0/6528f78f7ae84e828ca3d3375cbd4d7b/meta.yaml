@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/6528f78f7ae84e828ca3d3375cbd4d7b/artifacts
+deleted_time: 1690305498328
 end_time: 1690216181031
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6528f78f7ae84e828ca3d3375cbd4d7b
 run_name: invincible-croc-899
 run_uuid: 6528f78f7ae84e828ca3d3375cbd4d7b

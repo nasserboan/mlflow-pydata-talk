@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/bcc036f6e33349b3a5e0f170d70b2043/artifacts
+deleted_time: 1690305430336
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bcc036f6e33349b3a5e0f170d70b2043
 run_name: amazing-boar-390
 run_uuid: bcc036f6e33349b3a5e0f170d70b2043

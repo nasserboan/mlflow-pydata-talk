@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/0902b6477a4247888db35b48db671fc6/artifacts
+deleted_time: 1690305429876
 end_time: 1690237708477
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0902b6477a4247888db35b48db671fc6
 run_name: stylish-croc-95
 run_uuid: 0902b6477a4247888db35b48db671fc6

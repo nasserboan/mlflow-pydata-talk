@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/4c1d7346d50b435bb8faec6e9651404b/artifacts
+deleted_time: 1690305498258
 end_time: 1690236254452
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4c1d7346d50b435bb8faec6e9651404b
 run_name: monumental-elk-68
 run_uuid: 4c1d7346d50b435bb8faec6e9651404b

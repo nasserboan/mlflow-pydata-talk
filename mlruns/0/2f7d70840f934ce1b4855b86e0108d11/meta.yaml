@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/2f7d70840f934ce1b4855b86e0108d11/artifacts
+deleted_time: 1690305430351
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2f7d70840f934ce1b4855b86e0108d11
 run_name: sincere-mule-76
 run_uuid: 2f7d70840f934ce1b4855b86e0108d11

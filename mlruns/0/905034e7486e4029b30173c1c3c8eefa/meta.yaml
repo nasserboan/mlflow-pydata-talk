@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/905034e7486e4029b30173c1c3c8eefa/artifacts
+deleted_time: 1690305429779
 end_time: 1690237902405
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 905034e7486e4029b30173c1c3c8eefa
 run_name: languid-skunk-934
 run_uuid: 905034e7486e4029b30173c1c3c8eefa

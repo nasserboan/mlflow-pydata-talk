@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/580cba8a347e481f81e925c76840d337/artifacts
+deleted_time: 1690305498275
 end_time: 1690221017766
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 580cba8a347e481f81e925c76840d337
 run_name: mysterious-kit-610
 run_uuid: 580cba8a347e481f81e925c76840d337

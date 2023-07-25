@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/c2261b88f99047db9b58d2bfc7f3a91e/artifacts
+deleted_time: 1690305498317
 end_time: 1690216183794
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c2261b88f99047db9b58d2bfc7f3a91e
 run_name: shivering-gull-412
 run_uuid: c2261b88f99047db9b58d2bfc7f3a91e

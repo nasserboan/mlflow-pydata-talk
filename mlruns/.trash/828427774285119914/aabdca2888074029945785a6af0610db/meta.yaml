@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/aabdca2888074029945785a6af0610db/artifacts
+deleted_time: 1690301763333
+end_time: 1690289258248
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: deleted
+run_id: aabdca2888074029945785a6af0610db
+run_name: worried-calf-682
+run_uuid: aabdca2888074029945785a6af0610db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690289254572
+status: 4
+tags: []
+user_id: nsboan

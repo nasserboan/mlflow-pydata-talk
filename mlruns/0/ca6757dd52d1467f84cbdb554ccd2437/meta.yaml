@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/ca6757dd52d1467f84cbdb554ccd2437/artifacts
+deleted_time: 1690305429776
 end_time: 1690238216108
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ca6757dd52d1467f84cbdb554ccd2437
 run_name: painted-donkey-776
 run_uuid: ca6757dd52d1467f84cbdb554ccd2437

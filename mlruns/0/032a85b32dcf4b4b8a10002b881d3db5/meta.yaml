@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/032a85b32dcf4b4b8a10002b881d3db5/artifacts
+deleted_time: 1690305429808
 end_time: 1690237005667
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 032a85b32dcf4b4b8a10002b881d3db5
 run_name: gifted-shark-384
 run_uuid: 032a85b32dcf4b4b8a10002b881d3db5

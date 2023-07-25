@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/f10542c52dba434dbc12c4b276ccc99b/artifacts
+deleted_time: 1690305430127
 end_time: 1690221693890
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f10542c52dba434dbc12c4b276ccc99b
 run_name: sneaky-gnu-742
 run_uuid: f10542c52dba434dbc12c4b276ccc99b

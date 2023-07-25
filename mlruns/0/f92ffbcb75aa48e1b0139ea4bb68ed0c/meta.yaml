@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/f92ffbcb75aa48e1b0139ea4bb68ed0c/artifacts
+deleted_time: 1690305430045
 end_time: 1690222051698
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f92ffbcb75aa48e1b0139ea4bb68ed0c
 run_name: carefree-lark-851
 run_uuid: f92ffbcb75aa48e1b0139ea4bb68ed0c

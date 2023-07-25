@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/0b1c473eef2c47ec81564ef84755f1ae/artifacts
+deleted_time: 1690305430187
 end_time: 1690221116435
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0b1c473eef2c47ec81564ef84755f1ae
 run_name: adorable-turtle-544
 run_uuid: 0b1c473eef2c47ec81564ef84755f1ae

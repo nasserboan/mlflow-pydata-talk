@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/7ba873ad5e8e468b91758cc2d706aca2/artifacts
+deleted_time: 1690305429948
 end_time: 1690222625345
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7ba873ad5e8e468b91758cc2d706aca2
 run_name: adventurous-pig-380
 run_uuid: 7ba873ad5e8e468b91758cc2d706aca2

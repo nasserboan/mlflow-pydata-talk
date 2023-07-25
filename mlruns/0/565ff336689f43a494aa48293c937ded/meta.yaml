@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/565ff336689f43a494aa48293c937ded/artifacts
+deleted_time: 1690305430187
 end_time: 1690221951130
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 565ff336689f43a494aa48293c937ded
 run_name: thoughtful-mouse-847
 run_uuid: 565ff336689f43a494aa48293c937ded

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/1f2d5557e8a549b7953289452bb497c8/artifacts
+deleted_time: 1690305430001
 end_time: 1690222518603
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1f2d5557e8a549b7953289452bb497c8
 run_name: casual-hen-258
 run_uuid: 1f2d5557e8a549b7953289452bb497c8

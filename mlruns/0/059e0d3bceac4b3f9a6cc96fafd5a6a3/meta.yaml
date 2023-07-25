@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/059e0d3bceac4b3f9a6cc96fafd5a6a3/artifacts
+deleted_time: 1690305498338
 end_time: 1690213470379
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 059e0d3bceac4b3f9a6cc96fafd5a6a3
 run_name: traveling-doe-719
 run_uuid: 059e0d3bceac4b3f9a6cc96fafd5a6a3

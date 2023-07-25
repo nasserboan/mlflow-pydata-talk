@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/cd52e2f4c2bc4f8f8038d419081775d0/artifacts
+deleted_time: 1690305430274
 end_time: 1690214222337
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cd52e2f4c2bc4f8f8038d419081775d0
 run_name: valuable-perch-299
 run_uuid: cd52e2f4c2bc4f8f8038d419081775d0

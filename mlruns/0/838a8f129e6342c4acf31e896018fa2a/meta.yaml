@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/838a8f129e6342c4acf31e896018fa2a/artifacts
+deleted_time: 1690305429937
 end_time: 1690236428921
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 838a8f129e6342c4acf31e896018fa2a
 run_name: luminous-crane-88
 run_uuid: 838a8f129e6342c4acf31e896018fa2a

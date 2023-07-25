@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/ab7f57185eda4a44b52d8690ebbd79e1/artifacts
+deleted_time: 1690305430098
 end_time: 1690221986629
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ab7f57185eda4a44b52d8690ebbd79e1
 run_name: clean-ray-730
 run_uuid: ab7f57185eda4a44b52d8690ebbd79e1

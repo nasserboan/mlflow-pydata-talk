@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/ffd9da7e481448d998c228e878c4445c/artifacts
+deleted_time: 1690305498213
 end_time: 1690236257193
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ffd9da7e481448d998c228e878c4445c
 run_name: valuable-stork-855
 run_uuid: ffd9da7e481448d998c228e878c4445c

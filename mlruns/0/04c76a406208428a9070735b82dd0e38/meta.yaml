@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/04c76a406208428a9070735b82dd0e38/artifacts
+deleted_time: 1690305429916
 end_time: 1690236733860
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 04c76a406208428a9070735b82dd0e38
 run_name: righteous-midge-111
 run_uuid: 04c76a406208428a9070735b82dd0e38

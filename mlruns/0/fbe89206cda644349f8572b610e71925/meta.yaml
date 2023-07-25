@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/fbe89206cda644349f8572b610e71925/artifacts
+deleted_time: 1690305498199
 end_time: 1690238271646
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fbe89206cda644349f8572b610e71925
 run_name: bacon123
 run_uuid: fbe89206cda644349f8572b610e71925

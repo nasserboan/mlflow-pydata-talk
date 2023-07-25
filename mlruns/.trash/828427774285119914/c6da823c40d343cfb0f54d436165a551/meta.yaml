@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/c6da823c40d343cfb0f54d436165a551/artifacts
+deleted_time: 1690301763333
+end_time: null
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: deleted
+run_id: c6da823c40d343cfb0f54d436165a551
+run_name: popular-duck-451
+run_uuid: c6da823c40d343cfb0f54d436165a551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690289087165
+status: 1
+tags: []
+user_id: nsboan

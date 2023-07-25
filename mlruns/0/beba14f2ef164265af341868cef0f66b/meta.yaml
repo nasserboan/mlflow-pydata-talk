@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/beba14f2ef164265af341868cef0f66b/artifacts
+deleted_time: 1690305498326
 end_time: 1690214198879
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: beba14f2ef164265af341868cef0f66b
 run_name: carefree-crow-222
 run_uuid: beba14f2ef164265af341868cef0f66b

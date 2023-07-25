@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/19a3250cc6a7445f96c464e7c163c93d/artifacts
+deleted_time: 1690305430027
 end_time: 1690222517288
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 19a3250cc6a7445f96c464e7c163c93d
 run_name: nosy-perch-561
 run_uuid: 19a3250cc6a7445f96c464e7c163c93d

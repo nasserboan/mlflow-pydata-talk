@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/73b402609c584f28bc7f31d349b6a030/artifacts
+deleted_time: 1690305430066
 end_time: 1690222051559
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 73b402609c584f28bc7f31d349b6a030
 run_name: placid-moose-464
 run_uuid: 73b402609c584f28bc7f31d349b6a030

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/243acc07b08542fbae39ed0b391c82e5/artifacts
+deleted_time: 1690305429914
 end_time: 1690236731182
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 243acc07b08542fbae39ed0b391c82e5
 run_name: welcoming-hen-476
 run_uuid: 243acc07b08542fbae39ed0b391c82e5

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/b3e66d85ff2f41bc9a37e4f7e6b9b89d/artifacts
+deleted_time: 1690305430069
 end_time: 1690222521359
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b3e66d85ff2f41bc9a37e4f7e6b9b89d
 run_name: secretive-mink-295
 run_uuid: b3e66d85ff2f41bc9a37e4f7e6b9b89d

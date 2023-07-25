@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/671f5149232a4b6fb6a3bc4b17fc4b99/artifacts
+deleted_time: 1690301763333
+end_time: 1690288585490
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: deleted
+run_id: 671f5149232a4b6fb6a3bc4b17fc4b99
+run_name: learned-dog-702
+run_uuid: 671f5149232a4b6fb6a3bc4b17fc4b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690288348395
+status: 4
+tags: []
+user_id: nsboan

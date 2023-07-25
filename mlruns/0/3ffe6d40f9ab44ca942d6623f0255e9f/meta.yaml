@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/3ffe6d40f9ab44ca942d6623f0255e9f/artifacts
+deleted_time: 1690305430363
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3ffe6d40f9ab44ca942d6623f0255e9f
 run_name: valuable-boar-102
 run_uuid: 3ffe6d40f9ab44ca942d6623f0255e9f

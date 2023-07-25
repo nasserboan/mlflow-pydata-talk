@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/eb560d18d94d4612a02d6b96797f1768/artifacts
+deleted_time: 1690305430148
 end_time: 1690221121660
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eb560d18d94d4612a02d6b96797f1768
 run_name: colorful-hen-505
 run_uuid: eb560d18d94d4612a02d6b96797f1768

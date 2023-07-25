@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/2d2433e312304e7e867439d91ceb0303/artifacts
+deleted_time: 1690305430264
 end_time: 1690221019234
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2d2433e312304e7e867439d91ceb0303
 run_name: useful-ox-312
 run_uuid: 2d2433e312304e7e867439d91ceb0303

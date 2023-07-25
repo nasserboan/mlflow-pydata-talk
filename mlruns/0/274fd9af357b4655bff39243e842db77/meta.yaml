@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/274fd9af357b4655bff39243e842db77/artifacts
+deleted_time: 1690305498340
 end_time: 1690213221839
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 274fd9af357b4655bff39243e842db77
 run_name: secretive-eel-771
 run_uuid: 274fd9af357b4655bff39243e842db77

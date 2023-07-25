@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/9da7f5df2bd74ea58025cfbb76985ebd/artifacts
+deleted_time: 1690301763333
+end_time: 1690301679142
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: deleted
+run_id: 9da7f5df2bd74ea58025cfbb76985ebd
+run_name: tasteful-shark-369
+run_uuid: 9da7f5df2bd74ea58025cfbb76985ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690301672786
+status: 3
+tags: []
+user_id: nsboan

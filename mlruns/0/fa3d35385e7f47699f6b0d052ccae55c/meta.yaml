@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/fa3d35385e7f47699f6b0d052ccae55c/artifacts
+deleted_time: 1690305430222
 end_time: 1690216186537
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fa3d35385e7f47699f6b0d052ccae55c
 run_name: gifted-pig-371
 run_uuid: fa3d35385e7f47699f6b0d052ccae55c

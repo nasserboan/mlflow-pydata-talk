@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/2ca8c8d9336d41c8966852f48d11fd1d/artifacts
+deleted_time: 1690305430019
 end_time: 1690222519909
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2ca8c8d9336d41c8966852f48d11fd1d
 run_name: youthful-trout-884
 run_uuid: 2ca8c8d9336d41c8966852f48d11fd1d

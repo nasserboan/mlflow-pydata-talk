@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/d63bc191ce1343729238e332fbe83bcd/artifacts
+deleted_time: 1690301763333
+end_time: 1690290510623
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: deleted
+run_id: d63bc191ce1343729238e332fbe83bcd
+run_name: likeable-smelt-336
+run_uuid: d63bc191ce1343729238e332fbe83bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690290505558
+status: 3
+tags: []
+user_id: nsboan

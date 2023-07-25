@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/200c3d61112b4562a7eedc9db5bea858/artifacts
+deleted_time: 1690305429886
 end_time: 1690236953081
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 200c3d61112b4562a7eedc9db5bea858
 run_name: invincible-lynx-465
 run_uuid: 200c3d61112b4562a7eedc9db5bea858

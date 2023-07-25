@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/e245a6bda8f94bcfa235aa56127d6ffc/artifacts
+deleted_time: 1690305498309
 end_time: 1690216186402
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e245a6bda8f94bcfa235aa56127d6ffc
 run_name: funny-stoat-196
 run_uuid: e245a6bda8f94bcfa235aa56127d6ffc

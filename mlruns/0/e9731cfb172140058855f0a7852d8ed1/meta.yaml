@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/e9731cfb172140058855f0a7852d8ed1/artifacts
+deleted_time: 1690305429757
 end_time: 1690238091460
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e9731cfb172140058855f0a7852d8ed1
 run_name: flawless-sow-687
 run_uuid: e9731cfb172140058855f0a7852d8ed1

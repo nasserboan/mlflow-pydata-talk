@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/1adc364a5da847fa9321c65d4f9ff58c/artifacts
+deleted_time: 1690305498262
 end_time: 1690221019086
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1adc364a5da847fa9321c65d4f9ff58c
 run_name: suave-fowl-647
 run_uuid: 1adc364a5da847fa9321c65d4f9ff58c

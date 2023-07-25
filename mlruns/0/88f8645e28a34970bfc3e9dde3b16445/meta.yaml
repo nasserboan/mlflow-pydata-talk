@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/88f8645e28a34970bfc3e9dde3b16445/artifacts
+deleted_time: 1690305430399
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 88f8645e28a34970bfc3e9dde3b16445
 run_name: peaceful-sloth-319
 run_uuid: 88f8645e28a34970bfc3e9dde3b16445

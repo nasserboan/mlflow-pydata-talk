@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/ac1d1abf76854b4fbc256f97382d3f8c/artifacts
+deleted_time: 1690305498318
 end_time: 1690216182403
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ac1d1abf76854b4fbc256f97382d3f8c
 run_name: unleashed-colt-224
 run_uuid: ac1d1abf76854b4fbc256f97382d3f8c

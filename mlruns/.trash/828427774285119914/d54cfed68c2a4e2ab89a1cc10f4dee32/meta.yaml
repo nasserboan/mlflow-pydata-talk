@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/d54cfed68c2a4e2ab89a1cc10f4dee32/artifacts
+deleted_time: 1690301763333
+end_time: 1690288722687
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: deleted
+run_id: d54cfed68c2a4e2ab89a1cc10f4dee32
+run_name: thoughtful-ray-27
+run_uuid: d54cfed68c2a4e2ab89a1cc10f4dee32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690288719775
+status: 4
+tags: []
+user_id: nsboan

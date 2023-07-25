@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/6d16325bc68c413db0af10e8bcf68fe6/artifacts
+deleted_time: 1690305430306
 end_time: 1690211472995
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6d16325bc68c413db0af10e8bcf68fe6
 run_name: efficient-turtle-854
 run_uuid: 6d16325bc68c413db0af10e8bcf68fe6

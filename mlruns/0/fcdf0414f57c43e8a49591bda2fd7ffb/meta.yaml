@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/fcdf0414f57c43e8a49591bda2fd7ffb/artifacts
+deleted_time: 1690305430076
 end_time: 1690222046160
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fcdf0414f57c43e8a49591bda2fd7ffb
 run_name: awesome-trout-40
 run_uuid: fcdf0414f57c43e8a49591bda2fd7ffb

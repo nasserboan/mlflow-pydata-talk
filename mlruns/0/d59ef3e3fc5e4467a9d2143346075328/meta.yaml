@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/d59ef3e3fc5e4467a9d2143346075328/artifacts
+deleted_time: 1690305498247
 end_time: 1690236255795
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d59ef3e3fc5e4467a9d2143346075328
 run_name: inquisitive-wolf-812
 run_uuid: d59ef3e3fc5e4467a9d2143346075328

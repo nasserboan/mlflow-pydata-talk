@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/7845632c5fa64eccb9c853d4b9a6d50a/artifacts
+deleted_time: 1690305430313
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7845632c5fa64eccb9c853d4b9a6d50a
 run_name: bright-cub-77
 run_uuid: 7845632c5fa64eccb9c853d4b9a6d50a

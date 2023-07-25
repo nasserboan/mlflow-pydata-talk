@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/62d5b341b3424c65a26c5eeff9477727/artifacts
+deleted_time: 1690301763333
+end_time: null
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: deleted
+run_id: 62d5b341b3424c65a26c5eeff9477727
+run_name: monumental-owl-124
+run_uuid: 62d5b341b3424c65a26c5eeff9477727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690286687910
+status: 1
+tags: []
+user_id: nsboan

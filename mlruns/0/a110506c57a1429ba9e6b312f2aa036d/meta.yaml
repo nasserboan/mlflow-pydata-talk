@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/a110506c57a1429ba9e6b312f2aa036d/artifacts
+deleted_time: 1690305498326
 end_time: 1690213973479
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a110506c57a1429ba9e6b312f2aa036d
 run_name: silent-croc-389
 run_uuid: a110506c57a1429ba9e6b312f2aa036d

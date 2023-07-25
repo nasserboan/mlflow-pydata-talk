@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/28950ca1ddf74fff8eafcf2da7d735c1/artifacts
+deleted_time: 1690305430073
 end_time: 1690222047468
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 28950ca1ddf74fff8eafcf2da7d735c1
 run_name: exultant-toad-261
 run_uuid: 28950ca1ddf74fff8eafcf2da7d735c1

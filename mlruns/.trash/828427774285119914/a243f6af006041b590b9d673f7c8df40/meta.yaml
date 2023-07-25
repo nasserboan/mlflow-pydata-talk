@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/a243f6af006041b590b9d673f7c8df40/artifacts
+deleted_time: 1690301763333
+end_time: 1690289475218
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: deleted
+run_id: a243f6af006041b590b9d673f7c8df40
+run_name: nebulous-finch-780
+run_uuid: a243f6af006041b590b9d673f7c8df40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690289455194
+status: 3
+tags: []
+user_id: nsboan

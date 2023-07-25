@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/7b5aac170ee343c8868ba96df061b69f/artifacts
+deleted_time: 1690305430038
 end_time: 1690222515887
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7b5aac170ee343c8868ba96df061b69f
 run_name: gregarious-wren-205
 run_uuid: 7b5aac170ee343c8868ba96df061b69f

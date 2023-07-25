@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/5e0dc941c1d6461cbf88fe596b73109d/artifacts
+deleted_time: 1690305429780
 end_time: 1690238001587
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5e0dc941c1d6461cbf88fe596b73109d
 run_name: clean-wolf-150
 run_uuid: 5e0dc941c1d6461cbf88fe596b73109d

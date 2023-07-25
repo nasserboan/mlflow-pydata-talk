@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/b4125629736c49d39354c730d2080234/artifacts
+deleted_time: 1690305430340
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b4125629736c49d39354c730d2080234
 run_name: gifted-goose-804
 run_uuid: b4125629736c49d39354c730d2080234

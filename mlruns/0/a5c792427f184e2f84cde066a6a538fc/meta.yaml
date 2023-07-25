@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/a5c792427f184e2f84cde066a6a538fc/artifacts
+deleted_time: 1690305429906
 end_time: 1690236889812
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a5c792427f184e2f84cde066a6a538fc
 run_name: righteous-toad-194
 run_uuid: a5c792427f184e2f84cde066a6a538fc

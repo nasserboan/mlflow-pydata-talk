@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/541e32ec78a84a98942bc5dce56b2551/artifacts
+deleted_time: 1690305429862
 end_time: 1690236953083
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 541e32ec78a84a98942bc5dce56b2551
 run_name: melodic-quail-826
 run_uuid: 541e32ec78a84a98942bc5dce56b2551

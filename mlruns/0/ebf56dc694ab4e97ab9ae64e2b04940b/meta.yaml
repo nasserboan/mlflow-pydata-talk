@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/ebf56dc694ab4e97ab9ae64e2b04940b/artifacts
+deleted_time: 1690305430144
 end_time: 1690221356106
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ebf56dc694ab4e97ab9ae64e2b04940b
 run_name: skillful-boar-637
 run_uuid: ebf56dc694ab4e97ab9ae64e2b04940b

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/13508b56a95c406e8bd85f007b6cfd34/artifacts
+deleted_time: 1690305430190
 end_time: 1690221117736
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 13508b56a95c406e8bd85f007b6cfd34
 run_name: defiant-fowl-36
 run_uuid: 13508b56a95c406e8bd85f007b6cfd34

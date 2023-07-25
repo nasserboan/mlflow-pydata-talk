@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/72d889639a8b4832868cafc39cc8c689/artifacts
+deleted_time: 1690305429883
 end_time: 1690236741537
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 72d889639a8b4832868cafc39cc8c689
 run_name: incongruous-duck-435
 run_uuid: 72d889639a8b4832868cafc39cc8c689

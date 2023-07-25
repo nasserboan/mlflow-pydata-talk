@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/ab5e777e51c348aa92ac1a5039f13e67/artifacts
+deleted_time: 1690305498299
 end_time: 1690221013833
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ab5e777e51c348aa92ac1a5039f13e67
 run_name: painted-frog-571
 run_uuid: ab5e777e51c348aa92ac1a5039f13e67

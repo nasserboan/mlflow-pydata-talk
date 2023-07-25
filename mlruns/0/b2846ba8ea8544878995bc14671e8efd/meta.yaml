@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/b2846ba8ea8544878995bc14671e8efd/artifacts
+deleted_time: 1690305430072
 end_time: 1690222050078
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b2846ba8ea8544878995bc14671e8efd
 run_name: dazzling-cub-791
 run_uuid: b2846ba8ea8544878995bc14671e8efd

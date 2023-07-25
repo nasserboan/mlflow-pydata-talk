@@ -9,7 +9,7 @@ import mlflow
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 logger = logging.getLogger()
 
-def main(args):
+def go(args):
     
     logger.info('Starting the dataset creation.')
     raw_images = load_digits(n_class=args.n_classes, as_frame=True)
@@ -53,4 +53,4 @@ if __name__ == '__main__':
     
     args = parser.parse_args()
     
-    main(args)
+    go(args)

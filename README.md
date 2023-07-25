@@ -3,55 +3,68 @@ mlflow-pydata-talk
 
 Code for the PyData BSB's talk on MLFlow.
 
+[Slides - PT-BR](https://docs.google.com/presentation/d/e/2PACX-1vSijerP5cgyugI1JjgJOkvEIFezqx8jErHxHjc4viNVpSJCrI7fG6aWOR5G9PnHRSeivRaLQr_oxg_s/pub?start=true&loop=true&delayms=5000)
+
+
+## Running
+
+```bash
+$ mlflow run . --experiment-name your_project_name
+```
+
+## Tools used
+
+* MLFlow
+* Hydra
+* Scikit-Learn
+* Argparse
+* Pandas
+* Matplotlib
+
 Project Organization
 ------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
+    ├── README.md              <- The top-level README.
     ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── external           <- Data from third party sources.
+    │   ├── interim            <- Intermediate data that has been transformed.
+    │   ├── processed          <- The final, canonical data sets for modeling.
+    │   └── raw                <- The original, immutable data dump.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    ├── notebooks              <- Jupyter notebooks.
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── mlruns                 <- Metada from MLFlow experiments.
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
+    ├── src                    <- Source code for use in this project.
     │   │
-    │   ├── data           <- Scripts to download or generate data
+    │   ├── make_dataset       <- Scripts to generate data.
+    │   │   │
+    │   │   ├── env.yml
+    │   │   ├── MLProject    
     │   │   └── make_dataset.py
     │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
+    │   ├── split (WIP)        <- Scripts to split and prepare data.
+    │   │   │
+    │   │   ├── env.yml
+    │   │   ├── MLProject    
+    │   │   └── split_and_prepare.py
     │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
+    │   ├── train_model (WIP)  <- Scripts to train a model.
+    │   │   │
+    │   │   ├── env.yml
+    │   │   ├── MLProject    
+    │   │   └── make_dataset.py
     │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
+    │   └── batch_pred (WIP)   <- Scripts to batch predict and evaluate models.
+    │       │
+    │       ├── env.yml
+    │       ├── MLProject    
+    │       └── make_dataset.py
     │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
+    ├── conda.yml              <- Conda environment for the root project.
+    ├── config.yaml            <- Config file with parameters to be imported by Hydra.
+    ├── main.py                <- Parent project to run all the other projects inside src.
+    └── MLProject              <- MLFlow project definition.
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>

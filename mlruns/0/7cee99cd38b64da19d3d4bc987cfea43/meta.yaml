@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/7cee99cd38b64da19d3d4bc987cfea43/artifacts
+deleted_time: 1690305429908
 end_time: 1690236986325
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7cee99cd38b64da19d3d4bc987cfea43
 run_name: efficient-shrike-20
 run_uuid: 7cee99cd38b64da19d3d4bc987cfea43
