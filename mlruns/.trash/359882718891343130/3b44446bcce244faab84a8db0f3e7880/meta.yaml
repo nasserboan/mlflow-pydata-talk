@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/3b44446bcce244faab84a8db0f3e7880/artifacts
+deleted_time: 1690223230111
+end_time: 1690222619123
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 3b44446bcce244faab84a8db0f3e7880
+run_name: awesome-bat-985
+run_uuid: 3b44446bcce244faab84a8db0f3e7880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222617035
+status: 3
+tags: []
+user_id: nsboan

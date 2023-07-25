@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/680a8720d1d14476a014bc8b93e3cebd/artifacts
+deleted_time: 1690223230111
+end_time: 1690222583271
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 680a8720d1d14476a014bc8b93e3cebd
+run_name: polite-hawk-297
+run_uuid: 680a8720d1d14476a014bc8b93e3cebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222581897
+status: 3
+tags: []
+user_id: nsboan

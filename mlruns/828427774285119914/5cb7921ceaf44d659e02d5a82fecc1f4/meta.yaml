@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/5cb7921ceaf44d659e02d5a82fecc1f4/artifacts
+end_time: 1690286902845
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: active
+run_id: 5cb7921ceaf44d659e02d5a82fecc1f4
+run_name: wistful-horse-795
+run_uuid: 5cb7921ceaf44d659e02d5a82fecc1f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690286676107
+status: 4
+tags: []
+user_id: nsboan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2577917740494fc2a75fed4e7e313ccb/artifacts
+end_time: 1690221476758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2577917740494fc2a75fed4e7e313ccb
+run_name: glamorous-gull-472
+run_uuid: 2577917740494fc2a75fed4e7e313ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221474597
+status: 4
+tags: []
+user_id: nsboan

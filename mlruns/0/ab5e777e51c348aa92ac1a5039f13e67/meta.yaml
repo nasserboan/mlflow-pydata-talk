@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ab5e777e51c348aa92ac1a5039f13e67/artifacts
+end_time: 1690221013833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab5e777e51c348aa92ac1a5039f13e67
+run_name: painted-frog-571
+run_uuid: ab5e777e51c348aa92ac1a5039f13e67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221011714
+status: 3
+tags: []
+user_id: nsboan

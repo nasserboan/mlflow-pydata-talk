@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a5c792427f184e2f84cde066a6a538fc/artifacts
+end_time: 1690236889812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5c792427f184e2f84cde066a6a538fc
+run_name: righteous-toad-194
+run_uuid: a5c792427f184e2f84cde066a6a538fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236773777
+status: 3
+tags: []
+user_id: nsboan

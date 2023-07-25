@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/696864136746118908/38fbac22654641a4a0a38662214b5d04/artifacts
+deleted_time: 1690238772722
+end_time: 1690238623037
+entry_point_name: ''
+experiment_id: '696864136746118908'
+lifecycle_stage: deleted
+run_id: 38fbac22654641a4a0a38662214b5d04
+run_name: spiffy-worm-593
+run_uuid: 38fbac22654641a4a0a38662214b5d04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690238612541
+status: 3
+tags: []
+user_id: nsboan

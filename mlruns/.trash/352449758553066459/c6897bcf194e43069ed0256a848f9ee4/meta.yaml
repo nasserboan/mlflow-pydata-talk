@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/352449758553066459/c6897bcf194e43069ed0256a848f9ee4/artifacts
+deleted_time: 1690236240855
+end_time: null
+entry_point_name: ''
+experiment_id: '352449758553066459'
+lifecycle_stage: deleted
+run_id: c6897bcf194e43069ed0256a848f9ee4
+run_name: colorful-squid-314
+run_uuid: c6897bcf194e43069ed0256a848f9ee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690225319998
+status: 1
+tags: []
+user_id: unknown

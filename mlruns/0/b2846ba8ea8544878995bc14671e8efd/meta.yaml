@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b2846ba8ea8544878995bc14671e8efd/artifacts
+end_time: 1690222050078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2846ba8ea8544878995bc14671e8efd
+run_name: dazzling-cub-791
+run_uuid: b2846ba8ea8544878995bc14671e8efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222048785
+status: 3
+tags: []
+user_id: nsboan

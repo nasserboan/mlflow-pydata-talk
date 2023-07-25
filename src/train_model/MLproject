@@ -1,7 +1,0 @@
-name: train_model
-conda_env: env.yml
-
-entry_points:
-  main:
-    command: >-
-        python train_model.py

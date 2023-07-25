@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/717559456812027761/6578207478de451b863702d8f897f7f1/artifacts
+deleted_time: 1690236421492
+end_time: 1690236330572
+entry_point_name: ''
+experiment_id: '717559456812027761'
+lifecycle_stage: deleted
+run_id: 6578207478de451b863702d8f897f7f1
+run_name: skillful-cub-73
+run_uuid: 6578207478de451b863702d8f897f7f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236329203
+status: 3
+tags: []
+user_id: nsboan

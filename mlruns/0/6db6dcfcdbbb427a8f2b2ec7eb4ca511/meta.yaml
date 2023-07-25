@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6db6dcfcdbbb427a8f2b2ec7eb4ca511/artifacts
+end_time: 1690213728797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db6dcfcdbbb427a8f2b2ec7eb4ca511
+run_name: valuable-smelt-295
+run_uuid: 6db6dcfcdbbb427a8f2b2ec7eb4ca511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690213470415
+status: 3
+tags: []
+user_id: nsboan

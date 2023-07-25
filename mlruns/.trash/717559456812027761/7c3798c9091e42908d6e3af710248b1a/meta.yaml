@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/717559456812027761/7c3798c9091e42908d6e3af710248b1a/artifacts
+deleted_time: 1690236421492
+end_time: 1690236332041
+entry_point_name: ''
+experiment_id: '717559456812027761'
+lifecycle_stage: deleted
+run_id: 7c3798c9091e42908d6e3af710248b1a
+run_name: enchanting-eel-338
+run_uuid: 7c3798c9091e42908d6e3af710248b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236330589
+status: 3
+tags: []
+user_id: nsboan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/29b1d4711b424029b07935c105046ac2/artifacts
+end_time: 1690222521213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29b1d4711b424029b07935c105046ac2
+run_name: overjoyed-shrew-973
+run_uuid: 29b1d4711b424029b07935c105046ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222519923
+status: 3
+tags: []
+user_id: nsboan

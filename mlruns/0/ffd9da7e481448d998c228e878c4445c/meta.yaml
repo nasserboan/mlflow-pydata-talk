@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ffd9da7e481448d998c228e878c4445c/artifacts
+end_time: 1690236257193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffd9da7e481448d998c228e878c4445c
+run_name: valuable-stork-855
+run_uuid: ffd9da7e481448d998c228e878c4445c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236255814
+status: 3
+tags: []
+user_id: nsboan

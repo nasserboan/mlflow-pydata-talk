@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b3e66d85ff2f41bc9a37e4f7e6b9b89d/artifacts
+end_time: 1690222521359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3e66d85ff2f41bc9a37e4f7e6b9b89d
+run_name: secretive-mink-295
+run_uuid: b3e66d85ff2f41bc9a37e4f7e6b9b89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222511633
+status: 3
+tags: []
+user_id: nsboan

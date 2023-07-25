@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/04c76a406208428a9070735b82dd0e38/artifacts
+end_time: 1690236733860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04c76a406208428a9070735b82dd0e38
+run_name: righteous-midge-111
+run_uuid: 04c76a406208428a9070735b82dd0e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236733807
+status: 3
+tags: []
+user_id: nsboan

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/160035295410136330/e4c52d26fdd2460da332d4e388143132/artifacts
+deleted_time: 1690280389937
+end_time: 1690241614001
+entry_point_name: ''
+experiment_id: '160035295410136330'
+lifecycle_stage: deleted
+run_id: e4c52d26fdd2460da332d4e388143132
+run_name: efficient-crow-256
+run_uuid: e4c52d26fdd2460da332d4e388143132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690241611522
+status: 4
+tags: []
+user_id: nsboan

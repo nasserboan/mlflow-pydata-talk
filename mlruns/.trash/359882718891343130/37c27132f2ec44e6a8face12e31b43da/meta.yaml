@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/37c27132f2ec44e6a8face12e31b43da/artifacts
+deleted_time: 1690223230111
+end_time: 1690221833143
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 37c27132f2ec44e6a8face12e31b43da
+run_name: bedecked-mole-476
+run_uuid: 37c27132f2ec44e6a8face12e31b43da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221831848
+status: 3
+tags: []
+user_id: nsboan

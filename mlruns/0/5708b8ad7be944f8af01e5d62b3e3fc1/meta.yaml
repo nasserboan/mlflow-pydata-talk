@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5708b8ad7be944f8af01e5d62b3e3fc1/artifacts
+end_time: 1690221808366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5708b8ad7be944f8af01e5d62b3e3fc1
+run_name: tasteful-shrimp-211
+run_uuid: 5708b8ad7be944f8af01e5d62b3e3fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221806195
+status: 4
+tags: []
+user_id: nsboan

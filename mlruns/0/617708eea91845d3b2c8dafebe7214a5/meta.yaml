@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/617708eea91845d3b2c8dafebe7214a5/artifacts
+end_time: 1690221015144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 617708eea91845d3b2c8dafebe7214a5
+run_name: handsome-roo-144
+run_uuid: 617708eea91845d3b2c8dafebe7214a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221013846
+status: 3
+tags: []
+user_id: nsboan

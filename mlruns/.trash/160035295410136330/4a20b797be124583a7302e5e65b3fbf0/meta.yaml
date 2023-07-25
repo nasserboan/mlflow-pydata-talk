@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/160035295410136330/4a20b797be124583a7302e5e65b3fbf0/artifacts
+deleted_time: 1690280389937
+end_time: 1690241843267
+entry_point_name: ''
+experiment_id: '160035295410136330'
+lifecycle_stage: deleted
+run_id: 4a20b797be124583a7302e5e65b3fbf0
+run_name: likeable-stoat-823
+run_uuid: 4a20b797be124583a7302e5e65b3fbf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690241752261
+status: 4
+tags: []
+user_id: nsboan

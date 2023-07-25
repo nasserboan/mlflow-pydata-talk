@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e10a3529ad81492ca5994d4a53b7e6d3/artifacts
+end_time: 1690236722924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e10a3529ad81492ca5994d4a53b7e6d3
+run_name: bald-hound-698
+run_uuid: e10a3529ad81492ca5994d4a53b7e6d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236722896
+status: 3
+tags: []
+user_id: nsboan

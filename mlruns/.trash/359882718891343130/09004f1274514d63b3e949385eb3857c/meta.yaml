@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/09004f1274514d63b3e949385eb3857c/artifacts
+deleted_time: 1690223230111
+end_time: 1690221948366
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 09004f1274514d63b3e949385eb3857c
+run_name: exultant-bird-306
+run_uuid: 09004f1274514d63b3e949385eb3857c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221947035
+status: 3
+tags: []
+user_id: nsboan

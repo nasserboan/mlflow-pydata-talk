@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a110506c57a1429ba9e6b312f2aa036d/artifacts
+end_time: 1690213973479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a110506c57a1429ba9e6b312f2aa036d
+run_name: silent-croc-389
+run_uuid: a110506c57a1429ba9e6b312f2aa036d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690213730313
+status: 3
+tags: []
+user_id: nsboan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f92ffbcb75aa48e1b0139ea4bb68ed0c/artifacts
+end_time: 1690222051698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f92ffbcb75aa48e1b0139ea4bb68ed0c
+run_name: carefree-lark-851
+run_uuid: f92ffbcb75aa48e1b0139ea4bb68ed0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222041903
+status: 3
+tags: []
+user_id: nsboan

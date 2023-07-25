@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/65d095f0cf5f486981c531408c00562e/artifacts
+end_time: 1690222583417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65d095f0cf5f486981c531408c00562e
+run_name: classy-hen-572
+run_uuid: 65d095f0cf5f486981c531408c00562e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222573194
+status: 3
+tags: []
+user_id: nsboan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ebf56dc694ab4e97ab9ae64e2b04940b/artifacts
+end_time: 1690221356106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebf56dc694ab4e97ab9ae64e2b04940b
+run_name: skillful-boar-637
+run_uuid: ebf56dc694ab4e97ab9ae64e2b04940b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221353929
+status: 4
+tags: []
+user_id: nsboan

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/749781962403792451/198ebbeaa62046908aaa98845266560d/artifacts
+deleted_time: 1690223232001
+end_time: null
+entry_point_name: ''
+experiment_id: '749781962403792451'
+lifecycle_stage: deleted
+run_id: 198ebbeaa62046908aaa98845266560d
+run_name: adventurous-doe-994
+run_uuid: 198ebbeaa62046908aaa98845266560d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690223086302
+status: 1
+tags: []
+user_id: unknown

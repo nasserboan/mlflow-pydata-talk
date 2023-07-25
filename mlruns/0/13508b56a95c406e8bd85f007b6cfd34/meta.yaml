@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/13508b56a95c406e8bd85f007b6cfd34/artifacts
+end_time: 1690221117736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13508b56a95c406e8bd85f007b6cfd34
+run_name: defiant-fowl-36
+run_uuid: 13508b56a95c406e8bd85f007b6cfd34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221116448
+status: 3
+tags: []
+user_id: nsboan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/200c3d61112b4562a7eedc9db5bea858/artifacts
+end_time: 1690236953081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 200c3d61112b4562a7eedc9db5bea858
+run_name: invincible-lynx-465
+run_uuid: 200c3d61112b4562a7eedc9db5bea858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236950903
+status: 3
+tags: []
+user_id: nsboan

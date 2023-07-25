@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c5ad03b3de924887aca7fd09b19f9c98/artifacts
+end_time: 1690236253106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5ad03b3de924887aca7fd09b19f9c98
+run_name: ambitious-loon-49
+run_uuid: c5ad03b3de924887aca7fd09b19f9c98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236250879
+status: 3
+tags: []
+user_id: nsboan

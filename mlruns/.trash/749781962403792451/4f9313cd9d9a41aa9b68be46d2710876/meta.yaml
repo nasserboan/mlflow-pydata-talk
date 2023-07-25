@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/749781962403792451/4f9313cd9d9a41aa9b68be46d2710876/artifacts
+deleted_time: 1690223232001
+end_time: null
+entry_point_name: ''
+experiment_id: '749781962403792451'
+lifecycle_stage: deleted
+run_id: 4f9313cd9d9a41aa9b68be46d2710876
+run_name: dazzling-midge-338
+run_uuid: 4f9313cd9d9a41aa9b68be46d2710876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690223086315
+status: 1
+tags: []
+user_id: unknown

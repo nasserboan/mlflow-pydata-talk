@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1b3baa326e29486d8a190b5c546dc3f9/artifacts
+end_time: 1690236258747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b3baa326e29486d8a190b5c546dc3f9
+run_name: charming-fawn-330
+run_uuid: 1b3baa326e29486d8a190b5c546dc3f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236248598
+status: 3
+tags: []
+user_id: nsboan

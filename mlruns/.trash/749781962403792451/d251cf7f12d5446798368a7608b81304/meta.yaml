@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/749781962403792451/d251cf7f12d5446798368a7608b81304/artifacts
+deleted_time: 1690223232001
+end_time: null
+entry_point_name: ''
+experiment_id: '749781962403792451'
+lifecycle_stage: deleted
+run_id: d251cf7f12d5446798368a7608b81304
+run_name: lyrical-shoat-140
+run_uuid: d251cf7f12d5446798368a7608b81304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690223086290
+status: 1
+tags: []
+user_id: unknown

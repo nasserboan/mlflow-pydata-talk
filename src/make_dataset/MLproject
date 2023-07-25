@@ -1,0 +1,17 @@
+name: make_dataset
+conda_env: env.yml
+
+entry_points:
+  main:
+    parameters:
+
+      n_classes:
+        description: "The number of classes that the module must create."
+        type: int
+
+      img_output_path:
+        description: "Path where the images will be saved."
+        type: str
+
+    command: >-
+        python make_dataset.py --n_classes {n_classes} --img_output_path {img_output_path}

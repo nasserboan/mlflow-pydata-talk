@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7cee99cd38b64da19d3d4bc987cfea43/artifacts
+end_time: 1690236986325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cee99cd38b64da19d3d4bc987cfea43
+run_name: efficient-shrike-20
+run_uuid: 7cee99cd38b64da19d3d4bc987cfea43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236984067
+status: 3
+tags: []
+user_id: nsboan

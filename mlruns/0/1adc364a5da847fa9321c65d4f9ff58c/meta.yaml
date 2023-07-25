@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1adc364a5da847fa9321c65d4f9ff58c/artifacts
+end_time: 1690221019086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1adc364a5da847fa9321c65d4f9ff58c
+run_name: suave-fowl-647
+run_uuid: 1adc364a5da847fa9321c65d4f9ff58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221017779
+status: 3
+tags: []
+user_id: nsboan

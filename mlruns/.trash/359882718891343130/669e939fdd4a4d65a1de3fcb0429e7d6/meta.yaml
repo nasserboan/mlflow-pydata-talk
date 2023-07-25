@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/669e939fdd4a4d65a1de3fcb0429e7d6/artifacts
+deleted_time: 1690223230111
+end_time: 1690222623284
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 669e939fdd4a4d65a1de3fcb0429e7d6
+run_name: dazzling-auk-571
+run_uuid: 669e939fdd4a4d65a1de3fcb0429e7d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222621891
+status: 3
+tags: []
+user_id: nsboan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7ba873ad5e8e468b91758cc2d706aca2/artifacts
+end_time: 1690222625345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ba873ad5e8e468b91758cc2d706aca2
+run_name: adventurous-pig-380
+run_uuid: 7ba873ad5e8e468b91758cc2d706aca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222614322
+status: 3
+tags: []
+user_id: nsboan

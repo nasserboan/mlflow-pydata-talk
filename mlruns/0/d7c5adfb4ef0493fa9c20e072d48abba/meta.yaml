@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d7c5adfb4ef0493fa9c20e072d48abba/artifacts
+end_time: 1690236986327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7c5adfb4ef0493fa9c20e072d48abba
+run_name: receptive-steed-189
+run_uuid: d7c5adfb4ef0493fa9c20e072d48abba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236984034
+status: 3
+tags: []
+user_id: nsboan

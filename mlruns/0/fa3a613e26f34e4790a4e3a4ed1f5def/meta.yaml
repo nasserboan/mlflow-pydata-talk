@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fa3a613e26f34e4790a4e3a4ed1f5def/artifacts
+end_time: 1690236334893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa3a613e26f34e4790a4e3a4ed1f5def
+run_name: wistful-goat-743
+run_uuid: fa3a613e26f34e4790a4e3a4ed1f5def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236324411
+status: 3
+tags: []
+user_id: nsboan

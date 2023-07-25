@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/73b402609c584f28bc7f31d349b6a030/artifacts
+end_time: 1690222051559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b402609c584f28bc7f31d349b6a030
+run_name: placid-moose-464
+run_uuid: 73b402609c584f28bc7f31d349b6a030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222050093
+status: 3
+tags: []
+user_id: nsboan

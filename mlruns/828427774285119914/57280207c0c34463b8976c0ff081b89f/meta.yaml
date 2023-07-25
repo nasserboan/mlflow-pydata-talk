@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/57280207c0c34463b8976c0ff081b89f/artifacts
+end_time: 1690289271983
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: active
+run_id: 57280207c0c34463b8976c0ff081b89f
+run_name: ambitious-ape-581
+run_uuid: 57280207c0c34463b8976c0ff081b89f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690289268289
+status: 4
+tags: []
+user_id: nsboan

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/368597505558671260/0ad9c637fbd44d23b3e8b1b0551d0bf6/artifacts
+deleted_time: 1690238505301
+end_time: 1690237042272
+entry_point_name: ''
+experiment_id: '368597505558671260'
+lifecycle_stage: deleted
+run_id: 0ad9c637fbd44d23b3e8b1b0551d0bf6
+run_name: polite-fly-564
+run_uuid: 0ad9c637fbd44d23b3e8b1b0551d0bf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690237040063
+status: 3
+tags: []
+user_id: nsboan

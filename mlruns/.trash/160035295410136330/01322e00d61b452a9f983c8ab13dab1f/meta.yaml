@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/160035295410136330/01322e00d61b452a9f983c8ab13dab1f/artifacts
+deleted_time: 1690280389937
+end_time: 1690242078737
+entry_point_name: ''
+experiment_id: '160035295410136330'
+lifecycle_stage: deleted
+run_id: 01322e00d61b452a9f983c8ab13dab1f
+run_name: data_step
+run_uuid: 01322e00d61b452a9f983c8ab13dab1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690242075659
+status: 3
+tags: []
+user_id: nsboan

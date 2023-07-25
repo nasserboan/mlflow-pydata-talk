@@ -1,7 +1,0 @@
-name: data_step
-conda_env: env.yml
-
-entry_points:
-  main:
-    command: >-
-        python make_dataset.py

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/9072d428f4934a80a40f486fd84f3a4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: active
+run_id: 9072d428f4934a80a40f486fd84f3a4c
+run_name: unruly-flea-204
+run_uuid: 9072d428f4934a80a40f486fd84f3a4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690288354136
+status: 1
+tags: []
+user_id: nsboan

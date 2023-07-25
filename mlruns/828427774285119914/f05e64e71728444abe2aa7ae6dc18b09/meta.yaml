@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/828427774285119914/f05e64e71728444abe2aa7ae6dc18b09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '828427774285119914'
+lifecycle_stage: active
+run_id: f05e64e71728444abe2aa7ae6dc18b09
+run_name: resilient-wren-683
+run_uuid: f05e64e71728444abe2aa7ae6dc18b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690289270664
+status: 1
+tags: []
+user_id: nsboan

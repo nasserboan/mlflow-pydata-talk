@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/b2e6bb7c06d34712b167e52490e13647/artifacts
+deleted_time: 1690223230111
+end_time: 1690222577442
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: b2e6bb7c06d34712b167e52490e13647
+run_name: vaunted-panda-696
+run_uuid: b2e6bb7c06d34712b167e52490e13647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222575323
+status: 3
+tags: []
+user_id: nsboan

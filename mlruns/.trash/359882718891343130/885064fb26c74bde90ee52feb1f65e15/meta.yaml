@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/885064fb26c74bde90ee52feb1f65e15/artifacts
+deleted_time: 1690223230111
+end_time: 1690222578754
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 885064fb26c74bde90ee52feb1f65e15
+run_name: melodic-goat-370
+run_uuid: 885064fb26c74bde90ee52feb1f65e15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222577458
+status: 3
+tags: []
+user_id: nsboan

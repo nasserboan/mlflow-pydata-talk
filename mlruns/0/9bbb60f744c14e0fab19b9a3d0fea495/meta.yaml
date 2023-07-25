@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9bbb60f744c14e0fab19b9a3d0fea495/artifacts
+end_time: 1690212602014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bbb60f744c14e0fab19b9a3d0fea495
+run_name: beautiful-kit-193
+run_uuid: 9bbb60f744c14e0fab19b9a3d0fea495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690212483557
+status: 4
+tags: []
+user_id: nsboan

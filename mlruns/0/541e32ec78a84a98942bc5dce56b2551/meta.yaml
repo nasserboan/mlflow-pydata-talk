@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/541e32ec78a84a98942bc5dce56b2551/artifacts
+end_time: 1690236953083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 541e32ec78a84a98942bc5dce56b2551
+run_name: melodic-quail-826
+run_uuid: 541e32ec78a84a98942bc5dce56b2551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236950856
+status: 3
+tags: []
+user_id: nsboan

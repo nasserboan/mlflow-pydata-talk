@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f10542c52dba434dbc12c4b276ccc99b/artifacts
+end_time: 1690221693890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f10542c52dba434dbc12c4b276ccc99b
+run_name: sneaky-gnu-742
+run_uuid: f10542c52dba434dbc12c4b276ccc99b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221691684
+status: 4
+tags: []
+user_id: nsboan

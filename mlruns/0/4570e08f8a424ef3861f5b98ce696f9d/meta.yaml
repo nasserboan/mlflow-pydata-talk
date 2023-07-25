@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4570e08f8a424ef3861f5b98ce696f9d/artifacts
+end_time: 1690236953082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4570e08f8a424ef3861f5b98ce696f9d
+run_name: bacon
+run_uuid: 4570e08f8a424ef3861f5b98ce696f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236950872
+status: 3
+tags: []
+user_id: nsboan

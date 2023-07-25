@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/160035295410136330/ad291551256448ddb12f19de71eee83d/artifacts
+deleted_time: 1690280389937
+end_time: 1690242008392
+entry_point_name: ''
+experiment_id: '160035295410136330'
+lifecycle_stage: deleted
+run_id: ad291551256448ddb12f19de71eee83d
+run_name: dazzling-gull-699
+run_uuid: ad291551256448ddb12f19de71eee83d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690242003294
+status: 4
+tags: []
+user_id: nsboan

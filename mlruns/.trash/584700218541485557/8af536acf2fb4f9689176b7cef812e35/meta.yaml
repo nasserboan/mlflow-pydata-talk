@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/584700218541485557/8af536acf2fb4f9689176b7cef812e35/artifacts
+deleted_time: 1690238501957
+end_time: 1690238458582
+entry_point_name: ''
+experiment_id: '584700218541485557'
+lifecycle_stage: deleted
+run_id: 8af536acf2fb4f9689176b7cef812e35
+run_name: amazing-bear-489
+run_uuid: 8af536acf2fb4f9689176b7cef812e35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690238453975
+status: 3
+tags: []
+user_id: nsboan

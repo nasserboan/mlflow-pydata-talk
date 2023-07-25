@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/beba14f2ef164265af341868cef0f66b/artifacts
+end_time: 1690214198879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: beba14f2ef164265af341868cef0f66b
+run_name: carefree-crow-222
+run_uuid: beba14f2ef164265af341868cef0f66b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690213973506
+status: 3
+tags: []
+user_id: nsboan

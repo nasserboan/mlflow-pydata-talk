@@ -1,37 +1,20 @@
 import mlflow
+import hydra
 import os
+from omegaconf import DictConfig
 
-def go():
-    
-    ## data step
-    _ = mlflow.run(
-        os.path.join(os.getcwd(), 'src', 'data'),
-        'main'
-    )
-    
-    ## features step
-    _ = mlflow.run(
-        os.path.join(os.getcwd(), 'src', 'features'),
-        'main'
-    )
-    
-    ## model step
-    _ = mlflow.run(
-        os.path.join(os.getcwd(), 'src', 'model_predict'),
-        'main'
-    )
-    
-    ## train_model step
-    _ = mlflow.run(
-        os.path.join(os.getcwd(), 'src', 'train_model'),
-        'main'
-    )
-    
-    ## visualization step
-    _ = mlflow.run(
-        os.path.join(os.getcwd(), 'src', 'visualization'),
-        'main'
-    )
+os.environ['HYDRA_FULL_ERROR'] = '1'
+
+@hydra.main(version_base=None, config_path='.', config_name='config')
+def workflow(cfg: DictConfig):
+
+    with mlflow.start_run() as active_run:
+        mlflow.run('src/make_dataset', 'main', 
+                   run_name='make_dataset',
+                   parameters={
+                       "n_classes": cfg['make_dataset']['n_classes'],
+                       "img_output_path": cfg['make_dataset']['img_output_path']
+                   })   
 
 if __name__ == "__main__":
-    go() 
+    workflow() 

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/717559456812027761/64994b2a4427492b84a202ca743e132b/artifacts
+deleted_time: 1690236421492
+end_time: 1690236334733
+entry_point_name: ''
+experiment_id: '717559456812027761'
+lifecycle_stage: deleted
+run_id: 64994b2a4427492b84a202ca743e132b
+run_name: legendary-shad-727
+run_uuid: 64994b2a4427492b84a202ca743e132b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236333406
+status: 3
+tags: []
+user_id: nsboan

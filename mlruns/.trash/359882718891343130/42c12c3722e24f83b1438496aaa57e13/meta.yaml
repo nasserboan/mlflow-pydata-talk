@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/42c12c3722e24f83b1438496aaa57e13/artifacts
+deleted_time: 1690223230111
+end_time: 1690222625160
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 42c12c3722e24f83b1438496aaa57e13
+run_name: serious-foal-370
+run_uuid: 42c12c3722e24f83b1438496aaa57e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222623297
+status: 3
+tags: []
+user_id: nsboan

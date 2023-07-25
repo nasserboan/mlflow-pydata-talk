@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ca6757dd52d1467f84cbdb554ccd2437/artifacts
+end_time: 1690238216108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca6757dd52d1467f84cbdb554ccd2437
+run_name: painted-donkey-776
+run_uuid: ca6757dd52d1467f84cbdb554ccd2437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690238211545
+status: 3
+tags: []
+user_id: nsboan

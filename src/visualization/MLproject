@@ -1,7 +1,0 @@
-name: viz
-conda_env: env.yml
-
-entry_points:
-  main:
-    command: >-
-        python visualize.py

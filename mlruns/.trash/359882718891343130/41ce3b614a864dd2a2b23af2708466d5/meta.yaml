@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/41ce3b614a864dd2a2b23af2708466d5/artifacts
+deleted_time: 1690223230111
+end_time: 1690221945698
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 41ce3b614a864dd2a2b23af2708466d5
+run_name: sincere-cod-612
+run_uuid: 41ce3b614a864dd2a2b23af2708466d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221943583
+status: 3
+tags: []
+user_id: nsboan

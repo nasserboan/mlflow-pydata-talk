@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b7cd2235e1d42a3ac08dca216c1a48d/artifacts
+end_time: 1690212324355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b7cd2235e1d42a3ac08dca216c1a48d
+run_name: awesome-foal-388
+run_uuid: 6b7cd2235e1d42a3ac08dca216c1a48d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690212311223
+status: 4
+tags: []
+user_id: nsboan

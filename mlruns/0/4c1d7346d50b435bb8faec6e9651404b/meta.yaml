@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4c1d7346d50b435bb8faec6e9651404b/artifacts
+end_time: 1690236254452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c1d7346d50b435bb8faec6e9651404b
+run_name: monumental-elk-68
+run_uuid: 4c1d7346d50b435bb8faec6e9651404b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236253125
+status: 3
+tags: []
+user_id: nsboan

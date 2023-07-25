@@ -1,0 +1,7 @@
+artifact_location: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/352449758553066459
+creation_time: 1690225319996
+experiment_id: '352449758553066459'
+last_update_time: 1690236240855
+lifecycle_stage: deleted
+name: test_nested
+tags: {}

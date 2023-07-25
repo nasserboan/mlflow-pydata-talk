@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/584700218541485557/69572832e6ca4902949adbd6c71d41f5/artifacts
+deleted_time: 1690238501957
+end_time: 1690238215954
+entry_point_name: ''
+experiment_id: '584700218541485557'
+lifecycle_stage: deleted
+run_id: 69572832e6ca4902949adbd6c71d41f5
+run_name: bacon123
+run_uuid: 69572832e6ca4902949adbd6c71d41f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690238213776
+status: 3
+tags: []
+user_id: nsboan

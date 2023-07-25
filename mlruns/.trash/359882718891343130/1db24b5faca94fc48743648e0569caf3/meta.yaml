@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/1db24b5faca94fc48743648e0569caf3/artifacts
+deleted_time: 1690223230111
+end_time: 1690222580310
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 1db24b5faca94fc48743648e0569caf3
+run_name: abundant-ray-225
+run_uuid: 1db24b5faca94fc48743648e0569caf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222578770
+status: 3
+tags: []
+user_id: nsboan

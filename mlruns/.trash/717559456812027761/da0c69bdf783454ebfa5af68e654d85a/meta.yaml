@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/717559456812027761/da0c69bdf783454ebfa5af68e654d85a/artifacts
+deleted_time: 1690236421492
+end_time: 1690236329186
+entry_point_name: ''
+experiment_id: '717559456812027761'
+lifecycle_stage: deleted
+run_id: da0c69bdf783454ebfa5af68e654d85a
+run_name: defiant-grub-198
+run_uuid: da0c69bdf783454ebfa5af68e654d85a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236326818
+status: 3
+tags: []
+user_id: nsboan

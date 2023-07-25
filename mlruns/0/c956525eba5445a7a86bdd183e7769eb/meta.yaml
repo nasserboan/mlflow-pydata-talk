@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c956525eba5445a7a86bdd183e7769eb/artifacts
+end_time: 1690222048769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c956525eba5445a7a86bdd183e7769eb
+run_name: useful-lamb-205
+run_uuid: c956525eba5445a7a86bdd183e7769eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222047483
+status: 3
+tags: []
+user_id: nsboan

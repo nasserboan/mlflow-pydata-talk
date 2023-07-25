@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/src/data/mlruns/0/896c81ed330b46c4b2c9067b27ff692a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 896c81ed330b46c4b2c9067b27ff692a
+run_name: resilient-skink-624
+run_uuid: 896c81ed330b46c4b2c9067b27ff692a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690289326640
+status: 1
+tags: []
+user_id: nsboan

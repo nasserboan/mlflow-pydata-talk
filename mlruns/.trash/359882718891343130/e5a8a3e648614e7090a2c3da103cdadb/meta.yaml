@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/e5a8a3e648614e7090a2c3da103cdadb/artifacts
+deleted_time: 1690223230111
+end_time: 1690221835872
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: e5a8a3e648614e7090a2c3da103cdadb
+run_name: gentle-rat-401
+run_uuid: e5a8a3e648614e7090a2c3da103cdadb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221834542
+status: 3
+tags: []
+user_id: nsboan

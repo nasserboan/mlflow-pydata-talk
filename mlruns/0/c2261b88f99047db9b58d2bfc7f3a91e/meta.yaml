@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c2261b88f99047db9b58d2bfc7f3a91e/artifacts
+end_time: 1690216183794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2261b88f99047db9b58d2bfc7f3a91e
+run_name: shivering-gull-412
+run_uuid: c2261b88f99047db9b58d2bfc7f3a91e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690216182415
+status: 3
+tags: []
+user_id: nsboan

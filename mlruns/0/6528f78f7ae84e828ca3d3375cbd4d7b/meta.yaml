@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6528f78f7ae84e828ca3d3375cbd4d7b/artifacts
+end_time: 1690216181031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6528f78f7ae84e828ca3d3375cbd4d7b
+run_name: invincible-croc-899
+run_uuid: 6528f78f7ae84e828ca3d3375cbd4d7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690216171040
+status: 3
+tags: []
+user_id: nsboan

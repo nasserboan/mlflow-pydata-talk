@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/8932f3b9f7484ef098cbd46387852e1d/artifacts
+deleted_time: 1690223230111
+end_time: 1690222620533
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 8932f3b9f7484ef098cbd46387852e1d
+run_name: omniscient-hawk-728
+run_uuid: 8932f3b9f7484ef098cbd46387852e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222619138
+status: 3
+tags: []
+user_id: nsboan

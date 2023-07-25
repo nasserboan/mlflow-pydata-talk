@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/580cba8a347e481f81e925c76840d337/artifacts
+end_time: 1690221017766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 580cba8a347e481f81e925c76840d337
+run_name: mysterious-kit-610
+run_uuid: 580cba8a347e481f81e925c76840d337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221016460
+status: 3
+tags: []
+user_id: nsboan

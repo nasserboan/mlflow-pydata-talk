@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/160035295410136330/d2436dbfd06645f797ca7d80d23a27bd/artifacts
+deleted_time: 1690280389937
+end_time: 1690242085090
+entry_point_name: ''
+experiment_id: '160035295410136330'
+lifecycle_stage: deleted
+run_id: d2436dbfd06645f797ca7d80d23a27bd
+run_name: nimble-newt-573
+run_uuid: d2436dbfd06645f797ca7d80d23a27bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690242073096
+status: 3
+tags: []
+user_id: nsboan

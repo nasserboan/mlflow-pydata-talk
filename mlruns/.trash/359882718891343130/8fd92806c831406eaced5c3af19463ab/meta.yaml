@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/8fd92806c831406eaced5c3af19463ab/artifacts
+deleted_time: 1690223230111
+end_time: 1690221950978
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 8fd92806c831406eaced5c3af19463ab
+run_name: burly-ox-862
+run_uuid: 8fd92806c831406eaced5c3af19463ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221949689
+status: 3
+tags: []
+user_id: nsboan

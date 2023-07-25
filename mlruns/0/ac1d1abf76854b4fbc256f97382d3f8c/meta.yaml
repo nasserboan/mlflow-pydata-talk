@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ac1d1abf76854b4fbc256f97382d3f8c/artifacts
+end_time: 1690216182403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac1d1abf76854b4fbc256f97382d3f8c
+run_name: unleashed-colt-224
+run_uuid: ac1d1abf76854b4fbc256f97382d3f8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690216181046
+status: 3
+tags: []
+user_id: nsboan

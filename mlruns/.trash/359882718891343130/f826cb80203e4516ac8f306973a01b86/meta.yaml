@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/f826cb80203e4516ac8f306973a01b86/artifacts
+deleted_time: 1690223230111
+end_time: 1690221986481
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: f826cb80203e4516ac8f306973a01b86
+run_name: invincible-wasp-632
+run_uuid: f826cb80203e4516ac8f306973a01b86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221985161
+status: 3
+tags: []
+user_id: nsboan

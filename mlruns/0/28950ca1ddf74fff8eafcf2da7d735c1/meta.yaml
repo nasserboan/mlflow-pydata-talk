@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/28950ca1ddf74fff8eafcf2da7d735c1/artifacts
+end_time: 1690222047468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28950ca1ddf74fff8eafcf2da7d735c1
+run_name: exultant-toad-261
+run_uuid: 28950ca1ddf74fff8eafcf2da7d735c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222046174
+status: 3
+tags: []
+user_id: nsboan

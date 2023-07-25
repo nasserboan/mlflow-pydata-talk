@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/359882718891343130/3928aa1ea9634422927ef4056556cbda/artifacts
+deleted_time: 1690223230111
+end_time: 1690221983837
+entry_point_name: ''
+experiment_id: '359882718891343130'
+lifecycle_stage: deleted
+run_id: 3928aa1ea9634422927ef4056556cbda
+run_name: delightful-midge-262
+run_uuid: 3928aa1ea9634422927ef4056556cbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221982481
+status: 3
+tags: []
+user_id: nsboan

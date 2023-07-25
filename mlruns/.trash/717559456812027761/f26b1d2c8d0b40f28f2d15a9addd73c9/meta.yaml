@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/717559456812027761/f26b1d2c8d0b40f28f2d15a9addd73c9/artifacts
+deleted_time: 1690236421492
+end_time: 1690236333388
+entry_point_name: ''
+experiment_id: '717559456812027761'
+lifecycle_stage: deleted
+run_id: f26b1d2c8d0b40f28f2d15a9addd73c9
+run_name: sneaky-moose-888
+run_uuid: f26b1d2c8d0b40f28f2d15a9addd73c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236332057
+status: 3
+tags: []
+user_id: nsboan

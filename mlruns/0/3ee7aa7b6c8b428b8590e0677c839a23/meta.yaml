@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ee7aa7b6c8b428b8590e0677c839a23/artifacts
+end_time: 1690221121807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ee7aa7b6c8b428b8590e0677c839a23
+run_name: dazzling-snipe-298
+run_uuid: 3ee7aa7b6c8b428b8590e0677c839a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221112115
+status: 3
+tags: []
+user_id: nsboan
