@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1690326739742
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1690326779246
+name: churn_classification_model
+run_id: fd8867b608434a539643a931b6401826
+run_link: ''
+source: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/301154897443504798/fd8867b608434a539643a931b6401826/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 3

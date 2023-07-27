@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/6ce281cd6f5643c680e48f9268d91fef/artifacts
+end_time: 1690399209236
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: active
+run_id: 6ce281cd6f5643c680e48f9268d91fef
+run_name: traveling-pug-280
+run_uuid: 6ce281cd6f5643c680e48f9268d91fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690399200706
+status: 3
+tags: []
+user_id: nsboan

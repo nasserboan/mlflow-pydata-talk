@@ -1,0 +1,11 @@
+main:
+  project_name: pydata-mlflow-talk
+  experiment_name: test-project
+make_dataset:
+  n_classes: 5
+  img_output_path: ../../data/raw/images
+split:
+  img_input_path: ../../data/raw/images
+  img_extension: '*.jpg'
+  test_pct: 0.2
+  split_random_state: 42

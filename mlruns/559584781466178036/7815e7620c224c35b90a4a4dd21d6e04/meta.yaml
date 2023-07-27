@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/7815e7620c224c35b90a4a4dd21d6e04/artifacts
+end_time: 1690398197502
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: active
+run_id: 7815e7620c224c35b90a4a4dd21d6e04
+run_name: useful-colt-429
+run_uuid: 7815e7620c224c35b90a4a4dd21d6e04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690398170181
+status: 4
+tags: []
+user_id: nsboan

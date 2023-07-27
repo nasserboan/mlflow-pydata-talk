@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/cda6f592996041e5b3605476f6567597/artifacts
+end_time: 1690397992926
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: active
+run_id: cda6f592996041e5b3605476f6567597
+run_name: thundering-kit-948
+run_uuid: cda6f592996041e5b3605476f6567597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690397502745
+status: 4
+tags: []
+user_id: nsboan

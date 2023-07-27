@@ -1,0 +1,6 @@
+main:
+  project_name: pydata-mlflow-talk
+  experiment_name: test-project
+make_dataset:
+  n_classes: 5
+  img_output_path: ../../data/raw/images

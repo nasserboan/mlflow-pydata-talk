@@ -2,7 +2,7 @@ name: make_dataset
 conda_env: env.yml
 
 entry_points:
-  main:
+  make_main:
     parameters:
 
       n_classes:

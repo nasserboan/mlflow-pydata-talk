@@ -27,8 +27,7 @@ Project Organization
     ├── LICENSE
     ├── README.md              <- The top-level README.
     ├── data
-    │   ├── external           <- Data from third party sources.
-    │   ├── interim            <- Intermediate data that has been transformed.
+    │   ├── indexes            <- Indexes of the images that will be used for training and testing
     │   ├── processed          <- The final, canonical data sets for modeling.
     │   └── raw                <- The original, immutable data dump.
     │

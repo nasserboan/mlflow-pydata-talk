@@ -1,0 +1,25 @@
+name: split
+conda_env: env.yml
+
+entry_points:
+  split_main:
+    parameters:
+
+      img_input_path:
+        description: "Path where we can find the images."
+        type: str
+
+      img_extension:
+        description: "Image extension to be used."
+        type: str
+
+      test_pct:
+        description: "Test size in percentage."
+        type: float
+
+      split_random_state:
+        description: "Sklearn's train_test_split random_state paramenter."
+        type: int
+
+    command: >-
+        python split.py --img_input_path {img_input_path} --img_extension {img_extension} --test_pct {test_pct} --split_random_state {split_random_state}

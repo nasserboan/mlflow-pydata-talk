@@ -1,8 +1,8 @@
 aliases: []
 creation_timestamp: 1689763135096
-current_stage: Production
+current_stage: Archived
 description: ''
-last_updated_timestamp: 1689763227688
+last_updated_timestamp: 1690326763419
 name: churn_classification_model
 run_id: 446141e31ab74a58b7a354400068e2a9
 run_link: ''
