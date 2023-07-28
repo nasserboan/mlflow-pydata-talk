@@ -1,0 +1,23 @@
+name: train_model
+conda_env: env.yml
+
+entry_points:
+  train_model_main:
+    parameters:
+
+      img_input_path:
+        description: "Path where we can find the images."
+        type: str
+
+    command: >-
+        python train_model.py --img_input_path {img_input_path}
+  
+  eval_model_main:
+    parameters:
+
+      img_input_path:
+        description: "Path where we can find the images."
+        type: str
+
+    command: >-
+        python eval_model.py --img_input_path {img_input_path}
