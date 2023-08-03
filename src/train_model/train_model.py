@@ -1,15 +1,49 @@
 import os
-import pandas as pd
+import torch
+from torch import nn
+from torch.utils.data import DataLoader
+from torchvision.transforms import ToTensor
+import torch.optim as optim
 import argparse
 import logging
-import glob
-from sklearn.model_selection import train_test_split
 import mlflow
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 logger = logging.getLogger()
 
+
+class SimpleCNN():
+    def __init__(self):
+        self.n_epochs = 0
+        self.lr = 0
+
+    def _find_device(self):
+        device = (
+            'cuda' if torch.cuda.is_available() else 'cpu'
+            )
+        return device
+
+    def load_data(self):
+        train_dataset = DataLoader()
+        test_dataset = DataLoader()
+        return (train_dataset, test_dataset)
+
+    def create_model(self):
+        pass
+
+    def train_model(self):
+        pass
+
 def go(args):
+
+    device = (
+    "cuda"
+    if torch.cuda.is_available()
+    else "mps"
+    if torch.backends.mps.is_available()
+    else "cpu"
+    )
+print(f"Using {device} device")
     
     ## load the train dataset
     
