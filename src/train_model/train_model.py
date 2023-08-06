@@ -2,7 +2,8 @@ import os
 import torch
 from torch import nn
 from torch.utils.data import DataLoader
-from torchvision.transforms import ToTensor
+from torch.utils.data import Dataset
+from torchvision.io import read_image
 import torch.optim as optim
 import argparse
 import logging
@@ -11,6 +12,26 @@ import mlflow
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 logger = logging.getLogger()
 
+
+class SimpleDataset(Dataset):
+    def __init__(self, annotations_file, transform=None, target_transform=None):
+        self._img_labels = pd.read_csv(annotations_file)
+        self._transform = transform
+        self._target_transform = target_transform
+    
+    def __len__(self):
+        return len(self._img_labels)
+    
+    def __getitem__(self, idx):
+        img_path = self._img_labels.iloc[idx,0]
+        image = read_image(img_path)
+        label = self._img_labels.iloc[idx,1]
+        if self._transform:
+            image = self._transform(image)
+        if self._target_transform:
+            label = self._target_transform(label)
+        
+        return image, label        
 
 class SimpleCNN():
     def __init__(self):
@@ -23,27 +44,30 @@ class SimpleCNN():
             )
         return device
 
-    def load_data(self):
-        train_dataset = DataLoader()
-        test_dataset = DataLoader()
-        return (train_dataset, test_dataset)
+    def load_data(self, batch_size):
+        train_dataset = SimpleDataset('../data/indexes/index_train.csv')
+        test_dataset = SimpleDataset('../data/indexes/index_test.csv')
+        train_loader = DataLoader(train_dataset, batch_size=batch_size)
+        test_loader = DataLoader(test_dataset, batch_size=batch_size)
 
-    def create_model(self):
-        pass
+        return (train_loader, test_loader)
+
+    def create_model(self, out_classes):
+
+        model = nn.Sequential()
+        model.add_module('Conv2D_1', nn.Conv2d(1, 32, kernel_size=(2,2)))
+        model.add_module('ReLU', nn.ReLU())
+        model.add_module('MaxPool', nn.MaxPool2d(kernel_size=(2,2)))
+        model.add_module('Flatten', nn.Flatten())
+        model.add_module('LazyLinear', nn.LazyLinear(out_features=out_classes))
+
+        return model
 
     def train_model(self):
         pass
 
 def go(args):
 
-    device = (
-    "cuda"
-    if torch.cuda.is_available()
-    else "mps"
-    if torch.backends.mps.is_available()
-    else "cpu"
-    )
-print(f"Using {device} device")
     
     ## load the train dataset
     

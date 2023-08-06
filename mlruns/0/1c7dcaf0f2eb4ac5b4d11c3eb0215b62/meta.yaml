@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1c7dcaf0f2eb4ac5b4d11c3eb0215b62/artifacts
+end_time: 1691276374101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c7dcaf0f2eb4ac5b4d11c3eb0215b62
+run_name: clean-mouse-41
+run_uuid: 1c7dcaf0f2eb4ac5b4d11c3eb0215b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691276367799
+status: 3
+tags: []
+user_id: nboan

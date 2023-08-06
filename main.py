@@ -28,4 +28,9 @@ def workflow(cfg: DictConfig):
                    })  
 
 if __name__ == "__main__":
+    
+    TRACKING_URI = os.path.join('file://', os.getcwd(), 'mlruns')
+    print(TRACKING_URI)
+    mlflow.set_tracking_uri(TRACKING_URI)
+    
     workflow() 
