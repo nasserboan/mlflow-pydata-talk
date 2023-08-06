@@ -9,12 +9,13 @@ Code for the PyData BSB's talk on MLFlow.
 ## Running
 
 ```bash
-$ mlflow run . --experiment-name your_project_name
+$ mlflow run . --experiment-name your_experiment_name
 ```
 
 ## Tools used
 
 * MLFlow
+* PyTorch
 * Hydra
 * Scikit-Learn
 * Argparse

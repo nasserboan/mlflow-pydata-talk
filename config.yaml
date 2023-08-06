@@ -11,3 +11,5 @@ split:
   split_random_state: 42
 train_model:
   out_classes: 5
+  batch_size: 32
+  epochs: 20

@@ -8,6 +8,7 @@ import torch.optim as optim
 import argparse
 import logging
 import mlflow
+from mlflow.models import infer_signature
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 logger = logging.getLogger()
@@ -34,9 +35,9 @@ class SimpleDataset(Dataset):
         return image, label        
 
 class SimpleCNN():
-    def __init__(self):
-        self.n_epochs = 0
-        self.lr = 0
+    def __init__(self, n_epochs, lr):
+        self.n_epochs = n_epochs
+        self.lr = lr
 
     def _find_device(self):
         device = (
@@ -46,11 +47,9 @@ class SimpleCNN():
 
     def load_data(self, batch_size):
         train_dataset = SimpleDataset('../data/indexes/index_train.csv')
-        test_dataset = SimpleDataset('../data/indexes/index_test.csv')
         train_loader = DataLoader(train_dataset, batch_size=batch_size)
-        test_loader = DataLoader(test_dataset, batch_size=batch_size)
 
-        return (train_loader, test_loader)
+        return train_loader
 
     def create_model(self, out_classes):
 
@@ -63,18 +62,50 @@ class SimpleCNN():
 
         return model
 
-    def train_model(self):
-        pass
+    def train_model(self, model_to_train, train_data):
+        train_steps = len(train_data) // train_data.batch_size
+        opt = optim.SGD(model_to_train.parameters(), lr= self.lr)
+        loss_fn = nn.CrossEntropyLoss()
+
+        H = {
+            'train_loss':[],
+            'train_acc':[]
+        }
+
+        for e in range(0,self.n_epochs):
+            model_to_train.train()
+
+            total_train_loss = 0
+            total_train_correct = 0
+
+            for (X, y) in train_data:
+                (X, y) = (X.to(self._find_device), y.to(self._find_device))
+
+                pred = model_to_train(X)
+                loss = loss_fn(pred, y)
+                opt.zero_grad()
+                loss.backward()
+                opt.step()
+
+                total_train_loss += loss
+                total_train_correct += (pred.argmax(1) == y).type(torch.float).sum().item()
+            
+            H['train_loss'].append(total_train_loss/train_steps)
+            H['train_acc'].append(total_train_correct/len(train_data.dataset))
+        
+        signature = infer_signature(X.numpy(), model_to_train(X).detach().numpy())
+
+        return model_to_train, H, signature
 
 def go(args):
 
-    
-    ## load the train dataset
-    
-    ## define a way to dinamically define the model architecture
-    ## and train it
-    
-    ## log the training into mlflow
+    cnn_helper = SimpleCNN(args.epochs, args.lr)
+    train_loader = cnn_helper.load_data(batch_size=args.batch_size)
+    raw_model = cnn_helper.create_model(args.out_classes)
+    trained_model, H, sig = cnn_helper.train_model(raw_model, train_loader)
+
+    mlflow.pytorch.log_model('model', trained_model, signature=sig)
+    mlflow.log_dict(H)
     
 if __name__ == '__main__':
     
@@ -85,27 +116,6 @@ if __name__ == '__main__':
         "--img_input_path",
         type = str,
         help = "Path where we can find the images.",
-        required= True
-    )
-    
-    parser.add_argument(
-        "--img_extension",
-        type = str,
-        help = "Image extension to be used.",
-        required= True
-    )
-    
-    parser.add_argument(
-        "--test_pct",
-        type = float,
-        help = "Test size in percentage.",
-        required= True
-    )
-    
-    parser.add_argument(
-        "--split_random_state",
-        type = int,
-        help = "Sklearn's train_test_split random_state paramenter.",
         required= True
     )
     
