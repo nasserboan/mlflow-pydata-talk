@@ -5,19 +5,31 @@ entry_points:
   train_model_main:
     parameters:
 
-      img_input_path:
-        description: "Path where we can find the images."
-        type: str
-
+      epochs:
+        description: "Number of epochs to train the model."
+        type: int
+      
+      lr:
+        description: "Model's learning rate."
+        type: float
+      
+      batch_size:
+        description: "Dataloader batch_size."
+        type: int
+      
+      out_classes:
+        description: "Number of classes to create the model's output layer."
+        type: int
+      
     command: >-
-        python train_model.py --img_input_path {img_input_path}
+        python train_model.py --epochs {epochs} --lr {lr} --batch_size {batch_size} --out_classes {out_classes}
   
-  eval_model_main:
-    parameters:
+  # eval_model_main:
+  #   parameters:
 
-      img_input_path:
-        description: "Path where we can find the images."
-        type: str
+  #     img_input_path:
+  #       description: "Path where we can find the images."
+  #       type: str
 
-    command: >-
-        python eval_model.py --img_input_path {img_input_path}
+  #   command: >-
+  #       python eval_model.py --img_input_path {img_input_path}

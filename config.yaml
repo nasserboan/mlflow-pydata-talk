@@ -13,3 +13,4 @@ train_model:
   out_classes: 5
   batch_size: 32
   epochs: 20
+  lr: 1e-3

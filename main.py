@@ -4,7 +4,7 @@ import os
 from omegaconf import DictConfig
 
 os.environ['HYDRA_FULL_ERROR'] = '1'
-run_steps = ['make_dataset','split','train_model']
+run_steps = ['train_model']
 
 @hydra.main(version_base=None, config_path='.', config_name='config')
 def workflow(cfg: DictConfig):
@@ -30,8 +30,15 @@ def workflow(cfg: DictConfig):
                     })
         
         if 'train_model' in run_steps:
+            mlflow.projects.run('src/train_model', 'train_model_main',
+                    run_name='train_model',
+                    parameters={
+                        "epochs": cfg['train_model']['epochs'],
+                        "lr": cfg['train_model']['lr'],
+                        "batch_size": cfg['train_model']['batch_size'],
+                        "out_classes": cfg['train_model']['out_classes']
+                    })
             
-
 if __name__ == "__main__":
     
     TRACKING_URI = os.path.join('file://', os.getcwd(), 'mlruns')

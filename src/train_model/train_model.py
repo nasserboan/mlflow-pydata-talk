@@ -1,4 +1,3 @@
-import os
 import torch
 from torch import nn
 from torch.utils.data import DataLoader
@@ -8,13 +7,14 @@ import torch.optim as optim
 import argparse
 import logging
 import mlflow
+import pandas as pd
 from mlflow.models import infer_signature
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 logger = logging.getLogger()
 
-
 class SimpleDataset(Dataset):
+
     def __init__(self, annotations_file, transform=None, target_transform=None):
         self._img_labels = pd.read_csv(annotations_file)
         self._transform = transform
@@ -36,17 +36,20 @@ class SimpleDataset(Dataset):
 
 class SimpleCNN():
     def __init__(self, n_epochs, lr):
+        
         self.n_epochs = n_epochs
         self.lr = lr
 
     def _find_device(self):
-        device = (
-            'cuda' if torch.cuda.is_available() else 'cpu'
-            )
-        return device
+        
+        device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
+        device = torch.device(device)
+        
+        return 'cpu'
 
     def load_data(self, batch_size):
-        train_dataset = SimpleDataset('../data/indexes/index_train.csv')
+        
+        train_dataset = SimpleDataset('../../data/indexes/index_train.csv')
         train_loader = DataLoader(train_dataset, batch_size=batch_size)
 
         return train_loader
@@ -63,6 +66,7 @@ class SimpleCNN():
         return model
 
     def train_model(self, model_to_train, train_data):
+        
         train_steps = len(train_data) // train_data.batch_size
         opt = optim.SGD(model_to_train.parameters(), lr= self.lr)
         loss_fn = nn.CrossEntropyLoss()
@@ -73,13 +77,15 @@ class SimpleCNN():
         }
 
         for e in range(0,self.n_epochs):
+            model_to_train.to(self._find_device())
             model_to_train.train()
 
             total_train_loss = 0
             total_train_correct = 0
 
             for (X, y) in train_data:
-                (X, y) = (X.to(self._find_device), y.to(self._find_device))
+                (X, y) = (X.float().to(self._find_device()), 
+                          y.to(self._find_device()))
 
                 pred = model_to_train(X)
                 loss = loss_fn(pred, y)
@@ -94,7 +100,7 @@ class SimpleCNN():
             H['train_acc'].append(total_train_correct/len(train_data.dataset))
         
         signature = infer_signature(X.numpy(), model_to_train(X).detach().numpy())
-
+        
         return model_to_train, H, signature
 
 def go(args):
@@ -104,19 +110,45 @@ def go(args):
     raw_model = cnn_helper.create_model(args.out_classes)
     trained_model, H, sig = cnn_helper.train_model(raw_model, train_loader)
 
-    mlflow.pytorch.log_model('model', trained_model, signature=sig)
+    mlflow.pytorch.log_model(pytorch_model=trained_model,
+                             artifact_path='model',
+                             conda_env='env.yml', 
+                             signature=sig)
+
+
     mlflow.log_dict(H)
     
 if __name__ == '__main__':
     
-    parser = argparse.ArgumentParser(description='Split dataset, please provide the image input path, \
-        image extension to be looked for, the test size (in pct) and the split random state.')
+    parser = argparse.ArgumentParser(description='Creates and train a simple\
+                                      CNN model.')
     
     parser.add_argument(
-        "--img_input_path",
-        type = str,
-        help = "Path where we can find the images.",
-        required= True
+        "--epochs",
+        type = int,
+        help = "Number of epochs to train the model.",
+        required = True
+    )
+
+    parser.add_argument(
+        "--lr",
+        type = float,
+        help = "Model's learning rate.",
+        required = True
+    )
+
+    parser.add_argument(
+        "--batch_size",
+        type = int,
+        help = "Dataloader batch_size.",
+        required = True
+    )
+
+    parser.add_argument(
+        "--out_classes",
+        type = int,
+        help = "Number of classes to create the model's output layer.",
+        required = True
     )
     
     args = parser.parse_args()
