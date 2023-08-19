@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/f2b27a685664495394164a7041cfa51c/artifacts
+deleted_time: 1692453181872
+end_time: 1692451838852
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: deleted
+run_id: f2b27a685664495394164a7041cfa51c
+run_name: honorable-carp-449
+run_uuid: f2b27a685664495394164a7041cfa51c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692451835099
+status: 4
+tags: []
+user_id: autoenc

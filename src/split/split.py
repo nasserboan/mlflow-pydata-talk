@@ -24,7 +24,8 @@ def go(args):
         .pipe((train_test_split),test_size=args.test_pct, 
               random_state=args.split_random_state)
     )
-    
+
+       
     logger.info('Saving and logging the indexes dataframes.')
     index_train.to_csv('../../data/indexes/index_train.csv', index=False)
     index_test.to_csv('../../data/indexes/index_test.csv', index=False)
@@ -60,7 +61,7 @@ if __name__ == '__main__':
     parser.add_argument(
         "--split_random_state",
         type = int,
-        help = "Sklearn's train_test_split random_state paramenter.",
+        help = "Sklearn's train_test_split random_state parameter.",
         required= True
     )
     

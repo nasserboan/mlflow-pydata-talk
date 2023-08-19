@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/4d735c04d04c42b6a408ffdc1c430ccf/artifacts
+deleted_time: 1692453181872
+end_time: 1692451384518
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: deleted
+run_id: 4d735c04d04c42b6a408ffdc1c430ccf
+run_name: thundering-dove-169
+run_uuid: 4d735c04d04c42b6a408ffdc1c430ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692451380614
+status: 4
+tags: []
+user_id: autoenc

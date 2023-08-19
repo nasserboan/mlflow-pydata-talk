@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/f2f58b9e2f0740ecb1d95cdcb87df1d4/artifacts
+deleted_time: 1692453181872
+end_time: 1690327108251
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: deleted
+run_id: f2f58b9e2f0740ecb1d95cdcb87df1d4
+run_name: calm-flea-978
+run_uuid: f2f58b9e2f0740ecb1d95cdcb87df1d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690327074022
+status: 3
+tags: []
+user_id: nsboan

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/autoenc/projetos/mlflow-pydata-talk/mlruns/823207071594854144/823acc20261f4d5e9ca4cb4a1fa57ca7/artifacts
+deleted_time: 1692453183791
+end_time: 1692452442217
+entry_point_name: ''
+experiment_id: '823207071594854144'
+lifecycle_stage: deleted
+run_id: 823acc20261f4d5e9ca4cb4a1fa57ca7
+run_name: persistent-kit-601
+run_uuid: 823acc20261f4d5e9ca4cb4a1fa57ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692452438464
+status: 3
+tags: []
+user_id: autoenc

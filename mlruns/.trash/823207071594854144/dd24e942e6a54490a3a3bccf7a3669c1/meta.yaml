@@ -1,0 +1,16 @@
+artifact_uri: file:///home/autoenc/projetos/mlflow-pydata-talk/mlruns/823207071594854144/dd24e942e6a54490a3a3bccf7a3669c1/artifacts
+deleted_time: 1692453183791
+end_time: 1692453096809
+entry_point_name: ''
+experiment_id: '823207071594854144'
+lifecycle_stage: deleted
+run_id: dd24e942e6a54490a3a3bccf7a3669c1
+run_name: enchanting-lynx-524
+run_uuid: dd24e942e6a54490a3a3bccf7a3669c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692453093006
+status: 3
+tags: []
+user_id: autoenc

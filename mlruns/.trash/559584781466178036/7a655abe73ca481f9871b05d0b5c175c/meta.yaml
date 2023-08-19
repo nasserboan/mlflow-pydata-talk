@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/7a655abe73ca481f9871b05d0b5c175c/artifacts
+deleted_time: 1692453181872
+end_time: 1692451968147
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: deleted
+run_id: 7a655abe73ca481f9871b05d0b5c175c
+run_name: luxuriant-hog-746
+run_uuid: 7a655abe73ca481f9871b05d0b5c175c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692451964279
+status: 4
+tags: []
+user_id: autoenc

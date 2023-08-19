@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/dcbc2c1aa7904a11ba356912f09309e3/artifacts
+deleted_time: 1692453181872
+end_time: 1692451429333
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: deleted
+run_id: dcbc2c1aa7904a11ba356912f09309e3
+run_name: exultant-shoat-553
+run_uuid: dcbc2c1aa7904a11ba356912f09309e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692451425462
+status: 4
+tags: []
+user_id: autoenc

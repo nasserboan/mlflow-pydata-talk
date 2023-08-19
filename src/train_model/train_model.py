@@ -96,7 +96,7 @@ class SimpleCNN():
                 total_train_loss += loss
                 total_train_correct += (pred.argmax(1) == y).type(torch.float).sum().item()
             
-            H['train_loss'].append(total_train_loss/train_steps)
+            H['train_loss'].append(float(total_train_loss.detach().numpy()))
             H['train_acc'].append(total_train_correct/len(train_data.dataset))
         
         signature = infer_signature(X.numpy(), model_to_train(X).detach().numpy())
@@ -110,13 +110,16 @@ def go(args):
     raw_model = cnn_helper.create_model(args.out_classes)
     trained_model, H, sig = cnn_helper.train_model(raw_model, train_loader)
 
-    mlflow.pytorch.log_model(pytorch_model=trained_model,
-                             artifact_path='model',
-                             conda_env='env.yml', 
-                             signature=sig)
+    torch.save(trained_model,'trained_model')
 
+    mlflow.log_artifact('trained_model','trained_model')
 
-    mlflow.log_dict(H)
+    # mlflow.pytorch.log_model(pytorch_model=trained_model,
+    #                           artifact_path='scripted_model',
+    #                          conda_env='env.yml', 
+    #                          signature=sig)
+    
+    mlflow.log_dict(H,'trained_model_history')
     
 if __name__ == '__main__':
     

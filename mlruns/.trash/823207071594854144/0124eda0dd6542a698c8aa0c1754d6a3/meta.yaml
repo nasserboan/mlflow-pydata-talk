@@ -1,0 +1,16 @@
+artifact_uri: file:///home/autoenc/projetos/mlflow-pydata-talk/mlruns/823207071594854144/0124eda0dd6542a698c8aa0c1754d6a3/artifacts
+deleted_time: 1692453183791
+end_time: 1692452127321
+entry_point_name: ''
+experiment_id: '823207071594854144'
+lifecycle_stage: deleted
+run_id: 0124eda0dd6542a698c8aa0c1754d6a3
+run_name: merciful-cat-102
+run_uuid: 0124eda0dd6542a698c8aa0c1754d6a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692452123501
+status: 4
+tags: []
+user_id: autoenc

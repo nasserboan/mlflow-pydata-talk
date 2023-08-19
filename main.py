@@ -4,7 +4,7 @@ import os
 from omegaconf import DictConfig
 
 os.environ['HYDRA_FULL_ERROR'] = '1'
-run_steps = ['train_model']
+run_steps = ['make_dataset','split','train_model']
 
 @hydra.main(version_base=None, config_path='.', config_name='config')
 def workflow(cfg: DictConfig):

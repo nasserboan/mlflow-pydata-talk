@@ -1,0 +1,15 @@
+artifact_uri: file:///home/autoenc/projetos/mlflow-pydata-talk/mlruns/245138712874976672/93b1b1c077e6434bbeaf68b7db9c41fd/artifacts
+end_time: 1692453446429
+entry_point_name: ''
+experiment_id: '245138712874976672'
+lifecycle_stage: active
+run_id: 93b1b1c077e6434bbeaf68b7db9c41fd
+run_name: learned-wolf-32
+run_uuid: 93b1b1c077e6434bbeaf68b7db9c41fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692453238985
+status: 3
+tags: []
+user_id: autoenc

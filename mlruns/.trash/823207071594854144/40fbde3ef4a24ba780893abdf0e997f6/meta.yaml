@@ -1,0 +1,16 @@
+artifact_uri: file:///home/autoenc/projetos/mlflow-pydata-talk/mlruns/823207071594854144/40fbde3ef4a24ba780893abdf0e997f6/artifacts
+deleted_time: 1692453183791
+end_time: 1692452388564
+entry_point_name: ''
+experiment_id: '823207071594854144'
+lifecycle_stage: deleted
+run_id: 40fbde3ef4a24ba780893abdf0e997f6
+run_name: brawny-lamb-991
+run_uuid: 40fbde3ef4a24ba780893abdf0e997f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692452384779
+status: 3
+tags: []
+user_id: autoenc

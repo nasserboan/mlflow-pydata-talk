@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/d4046495395f4332a11d98a972e250e7/artifacts
+deleted_time: 1692453181872
+end_time: 1692450833048
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: deleted
+run_id: d4046495395f4332a11d98a972e250e7
+run_name: wise-dolphin-597
+run_uuid: d4046495395f4332a11d98a972e250e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692450831880
+status: 3
+tags: []
+user_id: autoenc

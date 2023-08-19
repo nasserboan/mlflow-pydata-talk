@@ -1,0 +1,15 @@
+artifact_uri: file:///home/autoenc/projetos/mlflow-pydata-talk/mlruns/245138712874976672/e573a36ae3df458bba292d4f1f19cf77/artifacts
+end_time: 1692453205616
+entry_point_name: ''
+experiment_id: '245138712874976672'
+lifecycle_stage: active
+run_id: e573a36ae3df458bba292d4f1f19cf77
+run_name: fortunate-cat-939
+run_uuid: e573a36ae3df458bba292d4f1f19cf77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692453201720
+status: 3
+tags: []
+user_id: autoenc

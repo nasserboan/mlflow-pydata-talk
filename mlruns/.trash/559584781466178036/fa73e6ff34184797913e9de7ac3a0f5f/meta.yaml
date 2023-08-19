@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/fa73e6ff34184797913e9de7ac3a0f5f/artifacts
+deleted_time: 1692453181872
+end_time: 1692451609846
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: deleted
+run_id: fa73e6ff34184797913e9de7ac3a0f5f
+run_name: inquisitive-doe-172
+run_uuid: fa73e6ff34184797913e9de7ac3a0f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692451605995
+status: 4
+tags: []
+user_id: autoenc

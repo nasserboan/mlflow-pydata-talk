@@ -1,7 +1,8 @@
 name: mlflow-project-talk
 dependencies:
-  - pyyaml=5.3.1
-  - pip=20.3.3
+  - python=3.10.12
+  - pyyaml>=5.3.1
+  - pip>=20.3.3
   - pip:
       - mlflow==2.5.0
       - hydra-core==1.3.2

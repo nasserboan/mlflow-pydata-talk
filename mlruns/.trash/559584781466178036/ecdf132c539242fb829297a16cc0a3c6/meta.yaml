@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nsboan/projetos/mlflow-pydata-talk/mlruns/559584781466178036/ecdf132c539242fb829297a16cc0a3c6/artifacts
+deleted_time: 1692453181872
+end_time: 1692450977957
+entry_point_name: ''
+experiment_id: '559584781466178036'
+lifecycle_stage: deleted
+run_id: ecdf132c539242fb829297a16cc0a3c6
+run_name: dazzling-fly-66
+run_uuid: ecdf132c539242fb829297a16cc0a3c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692450972852
+status: 4
+tags: []
+user_id: autoenc

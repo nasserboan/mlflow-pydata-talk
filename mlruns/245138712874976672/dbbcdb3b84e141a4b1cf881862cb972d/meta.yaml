@@ -1,0 +1,15 @@
+artifact_uri: file:///home/autoenc/projetos/mlflow-pydata-talk/mlruns/245138712874976672/dbbcdb3b84e141a4b1cf881862cb972d/artifacts
+end_time: 1692453446292
+entry_point_name: ''
+experiment_id: '245138712874976672'
+lifecycle_stage: active
+run_id: dbbcdb3b84e141a4b1cf881862cb972d
+run_name: train_model
+run_uuid: dbbcdb3b84e141a4b1cf881862cb972d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692453442744
+status: 3
+tags: []
+user_id: autoenc
